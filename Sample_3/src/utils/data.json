@@ -1,0 +1,4901 @@
+[{
+        "id": "c311b800-a058-45d6-a284-b0a8a6cb30a8",
+        "date": "2018-10-31",
+        "yield": 319,
+        "spread": 370,
+        "price": 487
+    },
+    {
+        "id": "f62fad46-33cd-44e0-8a85-4bec0cec797e",
+        "date": "2018-03-15",
+        "yield": 995,
+        "spread": 338,
+        "price": 683
+    },
+    {
+        "id": "a6960b26-7783-48e3-a97f-be46a6cebdcf",
+        "date": "2019-06-05",
+        "yield": 405,
+        "spread": 316,
+        "price": 107
+    },
+    {
+        "id": "9d7e6584-e7d0-4242-9791-5098db4bd256",
+        "date": "2018-07-23",
+        "yield": 79,
+        "spread": 416,
+        "price": 305
+    },
+    {
+        "id": "249bfd4b-2132-4708-bb49-8100cd454ea3",
+        "date": "2019-02-19",
+        "yield": 362,
+        "spread": 76,
+        "price": 551
+    },
+    {
+        "id": "a06d2c7a-185f-4176-a3c1-fda4b90dba37",
+        "date": "2018-07-30",
+        "yield": 840,
+        "spread": 259,
+        "price": 472
+    },
+    {
+        "id": "6ea5234d-3790-4b7a-a0b3-f3e78b84fe30",
+        "date": "2019-04-02",
+        "yield": 737,
+        "spread": 296,
+        "price": 249
+    },
+    {
+        "id": "7556d118-52b1-40f6-8418-1fc217a7f97f",
+        "date": "2018-08-28",
+        "yield": 696,
+        "spread": 390,
+        "price": 342
+    },
+    {
+        "id": "0ff82cff-1fe6-4f6f-99c2-33270bd24c0e",
+        "date": "2019-06-14",
+        "yield": 13,
+        "spread": 467,
+        "price": 210
+    },
+    {
+        "id": "06ffe6ce-cca7-4b4f-8551-ff02d60e939b",
+        "date": "2019-03-02",
+        "yield": 661,
+        "spread": 399,
+        "price": 297
+    },
+    {
+        "id": "12b5012b-cf33-4161-895c-bbf1ab1627cd",
+        "date": "2018-12-28",
+        "yield": 572,
+        "spread": 9,
+        "price": 669
+    },
+    {
+        "id": "8a0a54e6-872f-4d1c-931e-18978b60c5ff",
+        "date": "2019-04-17",
+        "yield": 79,
+        "spread": 36,
+        "price": 352
+    },
+    {
+        "id": "95a4c7fc-27f7-48db-80ae-d5c1088d1a79",
+        "date": "2019-06-10",
+        "yield": 871,
+        "spread": 364,
+        "price": 150
+    },
+    {
+        "id": "d188af0b-e03c-435d-8b76-185c945a990f",
+        "date": "2018-02-18",
+        "yield": 563,
+        "spread": 471,
+        "price": 153
+    },
+    {
+        "id": "e5075ff7-1a50-4955-86a8-9b5b7d349a57",
+        "date": "2018-02-08",
+        "yield": 963,
+        "spread": 390,
+        "price": 528
+    },
+    {
+        "id": "384a22cc-76e6-447f-9f6e-946ce78193bf",
+        "date": "2019-11-04",
+        "yield": 385,
+        "spread": 185,
+        "price": 574
+    },
+    {
+        "id": "d523f779-9996-462e-8c60-9638e329e930",
+        "date": "2019-02-10",
+        "yield": 910,
+        "spread": 405,
+        "price": 487
+    },
+    {
+        "id": "753d1f37-9eab-4754-9eca-a130895b63cf",
+        "date": "2018-04-13",
+        "yield": 885,
+        "spread": 58,
+        "price": 337
+    },
+    {
+        "id": "f732d8cf-ea46-4834-a99a-dd464a656fab",
+        "date": "2018-05-02",
+        "yield": 396,
+        "spread": 218,
+        "price": 372
+    },
+    {
+        "id": "c20f194d-f53c-428c-8735-c9f70dca9567",
+        "date": "2018-04-18",
+        "yield": 453,
+        "spread": 481,
+        "price": 624
+    },
+    {
+        "id": "7140bea7-80df-4e57-b725-61151e5bc3ad",
+        "date": "2019-11-07",
+        "yield": 322,
+        "spread": 463,
+        "price": 574
+    },
+    {
+        "id": "35a39661-5b0e-457b-8416-6e0887bbd345",
+        "date": "2018-01-21",
+        "yield": 690,
+        "spread": 209,
+        "price": 214
+    },
+    {
+        "id": "b556f69c-ee58-4c39-97cb-e17e8733a768",
+        "date": "2018-08-04",
+        "yield": 357,
+        "spread": 236,
+        "price": 630
+    },
+    {
+        "id": "f4e408d5-8ca1-4333-b78f-f5e41882f552",
+        "date": "2018-02-14",
+        "yield": 883,
+        "spread": 208,
+        "price": 503
+    },
+    {
+        "id": "b1cd8f40-ad8d-49a7-9510-aea2fe75a856",
+        "date": "2019-06-23",
+        "yield": 166,
+        "spread": 286,
+        "price": 223
+    },
+    {
+        "id": "60f22223-e60a-4956-9bb2-be4ed696c928",
+        "date": "2018-11-27",
+        "yield": 370,
+        "spread": 358,
+        "price": 308
+    },
+    {
+        "id": "c7474d32-0b95-434e-9efb-612b21b4905b",
+        "date": "2019-09-17",
+        "yield": 21,
+        "spread": 330,
+        "price": 462
+    },
+    {
+        "id": "539b4005-6461-4556-ad65-0be6d5d45271",
+        "date": "2018-07-02",
+        "yield": 405,
+        "spread": 257,
+        "price": 325
+    },
+    {
+        "id": "c01614fd-7e49-4a3f-896e-7c7354591475",
+        "date": "2018-02-28",
+        "yield": 316,
+        "spread": 232,
+        "price": 242
+    },
+    {
+        "id": "d451ea58-f462-44e9-8429-e6eb2e7d6084",
+        "date": "2018-09-23",
+        "yield": 205,
+        "spread": 76,
+        "price": 466
+    },
+    {
+        "id": "22a9e0c4-199d-420b-8ac6-3e336e38bc6a",
+        "date": "2019-02-11",
+        "yield": 754,
+        "spread": 250,
+        "price": 459
+    },
+    {
+        "id": "80f157ab-d89d-49f9-9ae8-fea946a37196",
+        "date": "2019-04-23",
+        "yield": 443,
+        "spread": 358,
+        "price": 325
+    },
+    {
+        "id": "a7261aa2-7392-4c77-99e5-171621fd4ca2",
+        "date": "2018-01-22",
+        "yield": 672,
+        "spread": 15,
+        "price": 184
+    },
+    {
+        "id": "4f29813f-0ccb-4030-ab80-7f1e213382d8",
+        "date": "2018-05-12",
+        "yield": 126,
+        "spread": 55,
+        "price": 116
+    },
+    {
+        "id": "e599685e-ff74-438c-9a7d-252da192fe50",
+        "date": "2019-06-29",
+        "yield": 232,
+        "spread": 160,
+        "price": 444
+    },
+    {
+        "id": "9264e73f-d102-416a-8720-44437669e22a",
+        "date": "2018-10-06",
+        "yield": 147,
+        "spread": 2,
+        "price": 332
+    },
+    {
+        "id": "c14a9f56-d40e-47e9-b2de-648942c5dbc1",
+        "date": "2018-07-27",
+        "yield": 769,
+        "spread": 215,
+        "price": 699
+    },
+    {
+        "id": "19d07202-a496-44d5-8603-4600b0b0a285",
+        "date": "2019-02-02",
+        "yield": 746,
+        "spread": 281,
+        "price": 143
+    },
+    {
+        "id": "24cad5f4-9763-48eb-9569-93aa522953b9",
+        "date": "2019-10-30",
+        "yield": 102,
+        "spread": 176,
+        "price": 483
+    },
+    {
+        "id": "153eb033-6c8c-4bc7-a265-c60db1f77afb",
+        "date": "2018-12-05",
+        "yield": 443,
+        "spread": 246,
+        "price": 623
+    },
+    {
+        "id": "5e51a8b8-2426-4997-bcda-e1520159a19b",
+        "date": "2018-03-17",
+        "yield": 413,
+        "spread": 359,
+        "price": 539
+    },
+    {
+        "id": "1c8d649a-6a8d-45af-922f-6d266b79f2de",
+        "date": "2019-11-09",
+        "yield": 67,
+        "spread": 99,
+        "price": 345
+    },
+    {
+        "id": "e0b9f907-3c35-460c-96ef-159fd0423012",
+        "date": "2018-08-10",
+        "yield": 2,
+        "spread": 334,
+        "price": 447
+    },
+    {
+        "id": "5bdf106c-b72e-463a-bd99-30a2d4cf5ab3",
+        "date": "2018-07-08",
+        "yield": 123,
+        "spread": 381,
+        "price": 398
+    },
+    {
+        "id": "20f1e985-4ea2-439a-9373-0fcecfcaf654",
+        "date": "2018-03-26",
+        "yield": 852,
+        "spread": 221,
+        "price": 577
+    },
+    {
+        "id": "935047ac-5482-41b5-b097-371d76d1d3a6",
+        "date": "2019-05-23",
+        "yield": 441,
+        "spread": 327,
+        "price": 409
+    },
+    {
+        "id": "19fab215-b1f5-4a6c-b710-7fee3eeef7b2",
+        "date": "2018-07-14",
+        "yield": 602,
+        "spread": 323,
+        "price": 249
+    },
+    {
+        "id": "79523f55-ed42-4fd8-a527-58d2d6cae88a",
+        "date": "2019-08-18",
+        "yield": 692,
+        "spread": 339,
+        "price": 536
+    },
+    {
+        "id": "d082243e-e41b-44db-90f2-d4dd0eb8dd6a",
+        "date": "2019-03-27",
+        "yield": 558,
+        "spread": 319,
+        "price": 515
+    },
+    {
+        "id": "1cc76070-c50f-4271-98a4-def4773ee033",
+        "date": "2019-02-25",
+        "yield": 390,
+        "spread": 282,
+        "price": 567
+    },
+    {
+        "id": "21e6538f-c32c-4273-946b-a7836a43674b",
+        "date": "2018-03-02",
+        "yield": 468,
+        "spread": 101,
+        "price": 300
+    },
+    {
+        "id": "5b4f9c86-4304-4530-a598-360eba3bcec0",
+        "date": "2019-11-23",
+        "yield": 836,
+        "spread": 357,
+        "price": 161
+    },
+    {
+        "id": "4b7e8153-dd9f-4c05-9a49-1aa42033b61c",
+        "date": "2019-09-16",
+        "yield": 267,
+        "spread": 35,
+        "price": 238
+    },
+    {
+        "id": "f2af0fec-3e3c-488f-9f76-624e09b40459",
+        "date": "2019-11-04",
+        "yield": 449,
+        "spread": 258,
+        "price": 300
+    },
+    {
+        "id": "428aee5a-80a9-4f85-af0b-3fc23f82642c",
+        "date": "2018-03-05",
+        "yield": 372,
+        "spread": 333,
+        "price": 646
+    },
+    {
+        "id": "fed0b7f6-1dd4-440e-a04b-427d9c79ed26",
+        "date": "2018-04-09",
+        "yield": 314,
+        "spread": 313,
+        "price": 597
+    },
+    {
+        "id": "a3498d03-bb01-4b28-98fd-f81a21c4bb00",
+        "date": "2019-01-10",
+        "yield": 411,
+        "spread": 108,
+        "price": 465
+    },
+    {
+        "id": "750f36e2-57d3-486f-a4fd-e1b1f6fc1b93",
+        "date": "2019-01-27",
+        "yield": 495,
+        "spread": 317,
+        "price": 509
+    },
+    {
+        "id": "72c609be-b180-4aa9-8ffe-7feb33b09889",
+        "date": "2018-10-11",
+        "yield": 573,
+        "spread": 86,
+        "price": 281
+    },
+    {
+        "id": "5e555108-8eb7-45a5-bdf7-2ac9c92135d8",
+        "date": "2018-11-11",
+        "yield": 939,
+        "spread": 353,
+        "price": 258
+    },
+    {
+        "id": "a060c108-9fc6-44ab-8679-5cec3fc772d8",
+        "date": "2018-01-17",
+        "yield": 491,
+        "spread": 486,
+        "price": 479
+    },
+    {
+        "id": "3cbbe662-28a8-4e45-aec5-169e7116b6cd",
+        "date": "2018-11-26",
+        "yield": 661,
+        "spread": 75,
+        "price": 333
+    },
+    {
+        "id": "de2d01f8-d49c-4fc6-887e-15651822de4c",
+        "date": "2018-06-03",
+        "yield": 148,
+        "spread": 159,
+        "price": 271
+    },
+    {
+        "id": "82555c84-d31c-434b-bd22-8dfb785ee0ec",
+        "date": "2018-03-13",
+        "yield": 417,
+        "spread": 321,
+        "price": 515
+    },
+    {
+        "id": "043a7473-6f85-49a4-9634-baebcf285f88",
+        "date": "2018-08-13",
+        "yield": 111,
+        "spread": 24,
+        "price": 258
+    },
+    {
+        "id": "4537fc72-6a55-4f06-8de6-28e58b8478a5",
+        "date": "2019-06-09",
+        "yield": 460,
+        "spread": 431,
+        "price": 270
+    },
+    {
+        "id": "2362aff7-8d31-47ba-bba9-91c9e0fc4dd3",
+        "date": "2018-05-02",
+        "yield": 833,
+        "spread": 30,
+        "price": 310
+    },
+    {
+        "id": "4e81b363-7110-4c9d-9316-4b50ecb612f1",
+        "date": "2019-02-01",
+        "yield": 629,
+        "spread": 62,
+        "price": 262
+    },
+    {
+        "id": "9706ff43-7c77-43a5-b89d-52617e9dd9f0",
+        "date": "2018-10-30",
+        "yield": 417,
+        "spread": 300,
+        "price": 557
+    },
+    {
+        "id": "4790cf5a-a722-4c4a-9698-c7a8bf0d0049",
+        "date": "2018-11-08",
+        "yield": 6,
+        "spread": 84,
+        "price": 282
+    },
+    {
+        "id": "176ccc4e-412c-4017-ba78-619e6edef401",
+        "date": "2018-07-17",
+        "yield": 226,
+        "spread": 447,
+        "price": 295
+    },
+    {
+        "id": "627602ad-859f-452f-bfc8-08a3e19dd4b8",
+        "date": "2019-09-10",
+        "yield": 3,
+        "spread": 349,
+        "price": 360
+    },
+    {
+        "id": "4bd000db-cd4f-4312-a9f2-78db90cda106",
+        "date": "2018-01-05",
+        "yield": 735,
+        "spread": 389,
+        "price": 473
+    },
+    {
+        "id": "5b42d4cb-c796-41bc-80b1-ef02984e4ba4",
+        "date": "2018-03-26",
+        "yield": 617,
+        "spread": 275,
+        "price": 291
+    },
+    {
+        "id": "87f96c2b-4347-4891-8826-298f6006e44d",
+        "date": "2019-12-26",
+        "yield": 730,
+        "spread": 34,
+        "price": 348
+    },
+    {
+        "id": "9d568c6d-fde9-4e64-9839-ffff02f6928d",
+        "date": "2019-09-10",
+        "yield": 611,
+        "spread": 424,
+        "price": 500
+    },
+    {
+        "id": "e60f5be7-96ee-450a-bc03-7edb113c3e1c",
+        "date": "2019-06-19",
+        "yield": 773,
+        "spread": 332,
+        "price": 312
+    },
+    {
+        "id": "c4a97b74-19bb-45ad-8c36-372ca57b054d",
+        "date": "2019-01-31",
+        "yield": 943,
+        "spread": 139,
+        "price": 584
+    },
+    {
+        "id": "096a5d00-9f80-4d08-9cf0-3e91940aca62",
+        "date": "2019-03-07",
+        "yield": 594,
+        "spread": 375,
+        "price": 465
+    },
+    {
+        "id": "71993b51-933c-48e7-9375-aa7e03bcebea",
+        "date": "2018-10-07",
+        "yield": 88,
+        "spread": 367,
+        "price": 188
+    },
+    {
+        "id": "8be15fb7-bd1f-40aa-bc9a-71c8b2a9ca6c",
+        "date": "2018-10-20",
+        "yield": 743,
+        "spread": 306,
+        "price": 688
+    },
+    {
+        "id": "1a83ca3c-e9a1-48ca-b23b-dfc877075ddf",
+        "date": "2019-03-18",
+        "yield": 819,
+        "spread": 191,
+        "price": 155
+    },
+    {
+        "id": "e212d77f-fc25-4c46-8e84-adad03e29d0d",
+        "date": "2019-02-20",
+        "yield": 802,
+        "spread": 341,
+        "price": 596
+    },
+    {
+        "id": "93ca70f4-ef37-4c32-bbc7-3135cee023b6",
+        "date": "2019-10-24",
+        "yield": 381,
+        "spread": 358,
+        "price": 450
+    },
+    {
+        "id": "7a73def1-6bb6-43f4-b3c9-4a8275cde1e4",
+        "date": "2018-11-30",
+        "yield": 66,
+        "spread": 75,
+        "price": 285
+    },
+    {
+        "id": "bc63803d-8134-47d8-b4c8-4ee6d44ed8ec",
+        "date": "2018-02-03",
+        "yield": 816,
+        "spread": 266,
+        "price": 296
+    },
+    {
+        "id": "26c031c3-6386-4003-952f-1f480545fafc",
+        "date": "2019-09-13",
+        "yield": 301,
+        "spread": 261,
+        "price": 185
+    },
+    {
+        "id": "a01fc3d4-7b2e-4d58-b9f4-09e9cc5a6c14",
+        "date": "2018-06-17",
+        "yield": 278,
+        "spread": 407,
+        "price": 219
+    },
+    {
+        "id": "277c8ece-1648-436c-a00d-3616aa29cc4d",
+        "date": "2019-08-29",
+        "yield": 717,
+        "spread": 38,
+        "price": 320
+    },
+    {
+        "id": "9aa3bc1a-3138-4c72-a9dd-201e3cecce3f",
+        "date": "2018-09-07",
+        "yield": 727,
+        "spread": 112,
+        "price": 678
+    },
+    {
+        "id": "46c7d931-1483-4126-b1e7-69d3a91d6a32",
+        "date": "2018-08-05",
+        "yield": 417,
+        "spread": 34,
+        "price": 343
+    },
+    {
+        "id": "e8cc81ae-c841-4983-900b-01b6270547ac",
+        "date": "2018-06-19",
+        "yield": 72,
+        "spread": 60,
+        "price": 367
+    },
+    {
+        "id": "e7dd544a-a6e2-47c3-aceb-8c9dd5c000f0",
+        "date": "2019-06-26",
+        "yield": 790,
+        "spread": 347,
+        "price": 481
+    },
+    {
+        "id": "0461f442-464f-4eaf-93f3-76c9a3c47283",
+        "date": "2018-07-14",
+        "yield": 920,
+        "spread": 172,
+        "price": 244
+    },
+    {
+        "id": "4c23a4a4-62b1-4590-8afd-7537f6524fee",
+        "date": "2018-09-04",
+        "yield": 466,
+        "spread": 201,
+        "price": 593
+    },
+    {
+        "id": "6a18982e-eb69-4c40-9754-2bd75648ea7d",
+        "date": "2018-10-28",
+        "yield": 245,
+        "spread": 258,
+        "price": 212
+    },
+    {
+        "id": "3001bbf3-f0dc-4982-8295-c74976d7d76a",
+        "date": "2019-12-13",
+        "yield": 400,
+        "spread": 138,
+        "price": 223
+    },
+    {
+        "id": "0a22f7c4-5339-44d1-bceb-fbeb2db221a9",
+        "date": "2019-11-01",
+        "yield": 30,
+        "spread": 286,
+        "price": 593
+    },
+    {
+        "id": "75445895-76ea-4c82-bc0d-6c4c2f63f070",
+        "date": "2018-06-13",
+        "yield": 967,
+        "spread": 146,
+        "price": 494
+    },
+    {
+        "id": "894090a9-ccdc-4aeb-90c2-dfb1c962fecd",
+        "date": "2019-12-01",
+        "yield": 405,
+        "spread": 354,
+        "price": 482
+    },
+    {
+        "id": "7973293a-6857-4f86-bdbb-a8e3b33bcb92",
+        "date": "2019-11-27",
+        "yield": 403,
+        "spread": 22,
+        "price": 256
+    },
+    {
+        "id": "9feca95c-dac3-4ca1-bc43-218dcbeca15d",
+        "date": "2018-05-21",
+        "yield": 15,
+        "spread": 317,
+        "price": 505
+    },
+    {
+        "id": "442edf07-d67d-48d9-8e45-fd7fbfbb6f58",
+        "date": "2019-11-09",
+        "yield": 200,
+        "spread": 461,
+        "price": 192
+    },
+    {
+        "id": "a0bba23b-54f6-46fa-9319-2c8c67311407",
+        "date": "2019-03-17",
+        "yield": 953,
+        "spread": 430,
+        "price": 620
+    },
+    {
+        "id": "ed4a1951-51b3-492a-995d-a8915fe54631",
+        "date": "2018-09-26",
+        "yield": 82,
+        "spread": 262,
+        "price": 215
+    },
+    {
+        "id": "520b89ce-f977-43ea-bc39-b3b368dcb0a2",
+        "date": "2019-10-05",
+        "yield": 240,
+        "spread": 305,
+        "price": 382
+    },
+    {
+        "id": "4e47a6c4-8a7e-4e6e-a476-7f7762fd5579",
+        "date": "2018-12-12",
+        "yield": 959,
+        "spread": 374,
+        "price": 362
+    },
+    {
+        "id": "08861943-2491-4f93-8907-b4461b39b7e8",
+        "date": "2018-12-01",
+        "yield": 275,
+        "spread": 178,
+        "price": 375
+    },
+    {
+        "id": "2bec3a41-1f45-41d5-a691-8645acaceb52",
+        "date": "2019-03-11",
+        "yield": 771,
+        "spread": 84,
+        "price": 596
+    },
+    {
+        "id": "9bc9c7cd-4aa6-40be-9801-94f89676fad1",
+        "date": "2019-10-06",
+        "yield": 159,
+        "spread": 128,
+        "price": 454
+    },
+    {
+        "id": "c1144dba-d0ef-4de4-bd43-f3a2af9bcb1a",
+        "date": "2018-05-05",
+        "yield": 691,
+        "spread": 441,
+        "price": 356
+    },
+    {
+        "id": "eb681211-3b23-4d64-88a7-e236cdbc3acd",
+        "date": "2019-06-24",
+        "yield": 3,
+        "spread": 96,
+        "price": 443
+    },
+    {
+        "id": "ed34760b-cdb7-4af4-8f7e-275a47317ebf",
+        "date": "2018-10-03",
+        "yield": 437,
+        "spread": 321,
+        "price": 626
+    },
+    {
+        "id": "33d42c49-c126-415c-be90-1066624e392c",
+        "date": "2018-06-30",
+        "yield": 992,
+        "spread": 237,
+        "price": 568
+    },
+    {
+        "id": "f06c732d-b3ac-4417-b95e-f5e2e23a4ba5",
+        "date": "2018-10-20",
+        "yield": 339,
+        "spread": 409,
+        "price": 700
+    },
+    {
+        "id": "ca8e6526-3ce0-49fe-9aa8-7c1190c11323",
+        "date": "2018-06-14",
+        "yield": 61,
+        "spread": 167,
+        "price": 507
+    },
+    {
+        "id": "d1d05389-6a79-4a92-b1cf-538a4a17aedb",
+        "date": "2019-05-25",
+        "yield": 296,
+        "spread": 368,
+        "price": 246
+    },
+    {
+        "id": "e7c06738-2909-4c51-9e3c-7d5481c5ae8d",
+        "date": "2019-09-21",
+        "yield": 197,
+        "spread": 76,
+        "price": 138
+    },
+    {
+        "id": "e63bd700-3397-4144-8ebe-2e17ca42933e",
+        "date": "2018-09-07",
+        "yield": 611,
+        "spread": 223,
+        "price": 169
+    },
+    {
+        "id": "25c92815-43d4-45c8-8c19-8b2a9c5c6de5",
+        "date": "2018-06-13",
+        "yield": 207,
+        "spread": 89,
+        "price": 501
+    },
+    {
+        "id": "0809f53e-9eaa-4e0f-8e20-a0c97f24ae9a",
+        "date": "2018-01-02",
+        "yield": 559,
+        "spread": 35,
+        "price": 682
+    },
+    {
+        "id": "e70eacc5-49b0-4f50-8073-acf5d377ecde",
+        "date": "2018-01-24",
+        "yield": 943,
+        "spread": 80,
+        "price": 671
+    },
+    {
+        "id": "031e103e-05d4-416d-b157-b9cab1d6d535",
+        "date": "2019-10-27",
+        "yield": 96,
+        "spread": 115,
+        "price": 175
+    },
+    {
+        "id": "60da3f7d-443f-454b-a909-b45f2d1a80ee",
+        "date": "2018-05-22",
+        "yield": 526,
+        "spread": 24,
+        "price": 315
+    },
+    {
+        "id": "5ccfe5b0-5d06-4fff-a718-46deac224a8c",
+        "date": "2018-06-28",
+        "yield": 297,
+        "spread": 241,
+        "price": 596
+    },
+    {
+        "id": "632f4078-a144-4ca5-9954-375238c0f669",
+        "date": "2018-04-01",
+        "yield": 135,
+        "spread": 78,
+        "price": 546
+    },
+    {
+        "id": "3d6f320a-40f9-4df0-941f-1d80ad5f7c24",
+        "date": "2019-11-13",
+        "yield": 420,
+        "spread": 260,
+        "price": 327
+    },
+    {
+        "id": "ccd1b8a6-0c71-417f-bf87-fc5668fab4ae",
+        "date": "2019-06-06",
+        "yield": 698,
+        "spread": 160,
+        "price": 260
+    },
+    {
+        "id": "ca1ef0f1-f5d9-45bf-aca1-5161a402b3b7",
+        "date": "2019-07-06",
+        "yield": 924,
+        "spread": 429,
+        "price": 274
+    },
+    {
+        "id": "e7e7602b-eaef-4a19-8159-3d74b0dfa54d",
+        "date": "2018-07-15",
+        "yield": 484,
+        "spread": 300,
+        "price": 217
+    },
+    {
+        "id": "a991d1bc-43dd-470f-ae42-13c46420aec0",
+        "date": "2018-11-23",
+        "yield": 523,
+        "spread": 126,
+        "price": 314
+    },
+    {
+        "id": "0717eac8-a9be-4a66-92da-2f1197b7fb8d",
+        "date": "2019-07-10",
+        "yield": 946,
+        "spread": 200,
+        "price": 395
+    },
+    {
+        "id": "ef844e68-e767-4568-b851-ecd8664fb033",
+        "date": "2019-08-05",
+        "yield": 989,
+        "spread": 174,
+        "price": 687
+    },
+    {
+        "id": "b46d4447-2fdb-46e6-b10b-2907fa835ed6",
+        "date": "2019-10-13",
+        "yield": 667,
+        "spread": 368,
+        "price": 332
+    },
+    {
+        "id": "6b223f3c-005e-4818-9c8f-95fbbaca483e",
+        "date": "2019-03-20",
+        "yield": 595,
+        "spread": 382,
+        "price": 529
+    },
+    {
+        "id": "f9a1552a-079c-4540-a3aa-a8ad8d245cd3",
+        "date": "2018-12-11",
+        "yield": 72,
+        "spread": 489,
+        "price": 507
+    },
+    {
+        "id": "5e0d1a10-fbbc-4d81-9747-641947c11599",
+        "date": "2018-01-10",
+        "yield": 48,
+        "spread": 378,
+        "price": 646
+    },
+    {
+        "id": "56772f7a-5dcd-46a1-a04d-3ed82111eed9",
+        "date": "2019-01-16",
+        "yield": 707,
+        "spread": 349,
+        "price": 301
+    },
+    {
+        "id": "62367396-5ef3-47d6-95fd-e6a49cc8b1ba",
+        "date": "2019-03-16",
+        "yield": 129,
+        "spread": 71,
+        "price": 312
+    },
+    {
+        "id": "31636879-a9a6-46b1-87e4-a2d77a92c6e1",
+        "date": "2018-04-03",
+        "yield": 628,
+        "spread": 346,
+        "price": 587
+    },
+    {
+        "id": "7a172c8c-8444-4005-bc94-58e21d92640f",
+        "date": "2019-06-24",
+        "yield": 809,
+        "spread": 387,
+        "price": 595
+    },
+    {
+        "id": "65e77506-a5b6-479b-9c87-f51da217d312",
+        "date": "2019-09-06",
+        "yield": 295,
+        "spread": 299,
+        "price": 366
+    },
+    {
+        "id": "c09df3ec-5185-4c3b-876a-dc9cc20c8d2f",
+        "date": "2019-07-29",
+        "yield": 635,
+        "spread": 203,
+        "price": 114
+    },
+    {
+        "id": "90704b3e-0eab-4ad5-8df8-d696bfd03b6c",
+        "date": "2018-08-12",
+        "yield": 107,
+        "spread": 270,
+        "price": 379
+    },
+    {
+        "id": "f67093fb-61d1-4047-a713-e688158ea71e",
+        "date": "2019-08-15",
+        "yield": 901,
+        "spread": 347,
+        "price": 418
+    },
+    {
+        "id": "65740c80-fea1-489a-a1df-8a58808bf099",
+        "date": "2019-06-27",
+        "yield": 60,
+        "spread": 256,
+        "price": 279
+    },
+    {
+        "id": "9f0a9827-b608-4829-804f-a316e203f2e1",
+        "date": "2019-08-22",
+        "yield": 119,
+        "spread": 493,
+        "price": 474
+    },
+    {
+        "id": "26f67d0c-090e-4497-b191-69cfb98d3f34",
+        "date": "2019-11-12",
+        "yield": 797,
+        "spread": 368,
+        "price": 399
+    },
+    {
+        "id": "dee8b7dd-8624-424e-be60-e15e41fdb8e4",
+        "date": "2019-12-05",
+        "yield": 993,
+        "spread": 221,
+        "price": 273
+    },
+    {
+        "id": "8ad7508a-0d7b-46f5-811e-814a6fd9227b",
+        "date": "2019-03-04",
+        "yield": 797,
+        "spread": 2,
+        "price": 107
+    },
+    {
+        "id": "1c6021e2-d7e4-41ba-b3cc-a61e958a27f9",
+        "date": "2018-06-26",
+        "yield": 129,
+        "spread": 481,
+        "price": 453
+    },
+    {
+        "id": "7a970816-63bd-4cbd-8e49-dc17b85194d7",
+        "date": "2019-06-02",
+        "yield": 664,
+        "spread": 307,
+        "price": 377
+    },
+    {
+        "id": "76d6ac04-af92-449f-9a94-3d29102d29fb",
+        "date": "2019-02-22",
+        "yield": 711,
+        "spread": 492,
+        "price": 463
+    },
+    {
+        "id": "6238c29c-eb06-4957-894f-8a79e9b1ea6b",
+        "date": "2019-06-13",
+        "yield": 909,
+        "spread": 105,
+        "price": 289
+    },
+    {
+        "id": "ecded126-eeb0-45c0-bf97-3bb650351eaa",
+        "date": "2018-12-30",
+        "yield": 961,
+        "spread": 368,
+        "price": 389
+    },
+    {
+        "id": "2781b6ed-0312-41c6-9864-ea0bd588fbb4",
+        "date": "2018-03-29",
+        "yield": 880,
+        "spread": 476,
+        "price": 116
+    },
+    {
+        "id": "df5ada8a-d5db-414b-a4e7-3d52a7589e93",
+        "date": "2018-11-09",
+        "yield": 326,
+        "spread": 187,
+        "price": 100
+    },
+    {
+        "id": "6534e7fd-14e5-4942-aaea-f2dea572d361",
+        "date": "2019-09-09",
+        "yield": 363,
+        "spread": 36,
+        "price": 257
+    },
+    {
+        "id": "6cfad3e9-eb70-4780-8b53-b97429692a70",
+        "date": "2019-02-23",
+        "yield": 471,
+        "spread": 141,
+        "price": 281
+    },
+    {
+        "id": "e5265348-3fa3-4d27-8981-a5a03bcfce7e",
+        "date": "2018-03-18",
+        "yield": 815,
+        "spread": 307,
+        "price": 291
+    },
+    {
+        "id": "65326795-bf2a-45b8-8625-214b31c7cb3f",
+        "date": "2019-02-13",
+        "yield": 103,
+        "spread": 453,
+        "price": 566
+    },
+    {
+        "id": "815d83ff-9b58-49cc-a64d-ea012c1361e1",
+        "date": "2019-10-17",
+        "yield": 914,
+        "spread": 316,
+        "price": 688
+    },
+    {
+        "id": "dd33e057-f04e-4af6-a1fb-fae58590bc7e",
+        "date": "2018-01-28",
+        "yield": 564,
+        "spread": 122,
+        "price": 389
+    },
+    {
+        "id": "c0d13c37-1838-4029-8189-31f288b217fe",
+        "date": "2018-05-08",
+        "yield": 482,
+        "spread": 455,
+        "price": 572
+    },
+    {
+        "id": "957bacb4-218d-45ee-8ca8-ec7088124ecc",
+        "date": "2018-06-06",
+        "yield": 676,
+        "spread": 251,
+        "price": 494
+    },
+    {
+        "id": "81c0bd81-5583-4e4a-b419-ad0c1ee39b9f",
+        "date": "2018-06-26",
+        "yield": 899,
+        "spread": 149,
+        "price": 342
+    },
+    {
+        "id": "dd9b5d36-9bbc-4756-a5fb-e09fa28aad1e",
+        "date": "2018-09-10",
+        "yield": 426,
+        "spread": 489,
+        "price": 407
+    },
+    {
+        "id": "6b64e30b-3eea-4020-995f-fc18774efd95",
+        "date": "2018-12-12",
+        "yield": 657,
+        "spread": 50,
+        "price": 187
+    },
+    {
+        "id": "6150a19b-be31-4c8a-befe-b1844ae190fb",
+        "date": "2018-10-23",
+        "yield": 19,
+        "spread": 247,
+        "price": 575
+    },
+    {
+        "id": "7dea798e-9f1b-4a63-93ba-4c4379fead03",
+        "date": "2018-06-26",
+        "yield": 112,
+        "spread": 54,
+        "price": 432
+    },
+    {
+        "id": "f3dbb3b7-620a-4fe4-a575-3628e3665540",
+        "date": "2018-05-05",
+        "yield": 639,
+        "spread": 488,
+        "price": 385
+    },
+    {
+        "id": "e2f7bb3a-9744-44b0-845d-178c9e7d8520",
+        "date": "2019-01-24",
+        "yield": 812,
+        "spread": 29,
+        "price": 304
+    },
+    {
+        "id": "ce47791c-6159-44b2-a58d-0aae9c0bcb15",
+        "date": "2019-10-04",
+        "yield": 467,
+        "spread": 192,
+        "price": 196
+    },
+    {
+        "id": "06d42823-cad1-4a3e-889a-6b566e070fd7",
+        "date": "2019-06-29",
+        "yield": 877,
+        "spread": 77,
+        "price": 608
+    },
+    {
+        "id": "a330e99b-4840-4fe7-bdc7-a00437bf0823",
+        "date": "2019-12-07",
+        "yield": 131,
+        "spread": 331,
+        "price": 442
+    },
+    {
+        "id": "e8e7688d-8b37-43b5-add4-1f92b3ee0d19",
+        "date": "2018-02-10",
+        "yield": 852,
+        "spread": 344,
+        "price": 558
+    },
+    {
+        "id": "33b48d54-00c4-4ce9-832d-26a262793500",
+        "date": "2019-09-25",
+        "yield": 519,
+        "spread": 220,
+        "price": 608
+    },
+    {
+        "id": "68f12d84-7af1-4506-9b05-10d013ea62b1",
+        "date": "2019-11-28",
+        "yield": 148,
+        "spread": 322,
+        "price": 487
+    },
+    {
+        "id": "e8136a1e-d2e0-484c-b754-69f559a4f002",
+        "date": "2019-05-05",
+        "yield": 398,
+        "spread": 38,
+        "price": 258
+    },
+    {
+        "id": "59766cea-cd3b-4c66-ad19-5e37b909c06d",
+        "date": "2018-03-22",
+        "yield": 672,
+        "spread": 326,
+        "price": 521
+    },
+    {
+        "id": "e18900af-0c4d-4fa3-bf94-dd43aaa999a5",
+        "date": "2019-10-09",
+        "yield": 241,
+        "spread": 463,
+        "price": 352
+    },
+    {
+        "id": "a10d63d5-8b80-43eb-a5a5-6904c15002a7",
+        "date": "2018-10-15",
+        "yield": 506,
+        "spread": 91,
+        "price": 513
+    },
+    {
+        "id": "3c4835d4-d1b9-4c3c-abef-6444e785f7ef",
+        "date": "2019-03-18",
+        "yield": 367,
+        "spread": 342,
+        "price": 633
+    },
+    {
+        "id": "ae5014cb-8edc-4196-b44c-c1f3683c0729",
+        "date": "2019-01-09",
+        "yield": 863,
+        "spread": 340,
+        "price": 371
+    },
+    {
+        "id": "7dac4402-21a2-48f1-ae2d-b1caf8f5f209",
+        "date": "2019-05-07",
+        "yield": 245,
+        "spread": 112,
+        "price": 629
+    },
+    {
+        "id": "5ff1293a-78af-4580-afc1-d82eaf8c68f5",
+        "date": "2018-03-15",
+        "yield": 410,
+        "spread": 399,
+        "price": 384
+    },
+    {
+        "id": "e1e4440d-fc75-4516-bd32-1115ef62d65b",
+        "date": "2019-09-08",
+        "yield": 608,
+        "spread": 361,
+        "price": 209
+    },
+    {
+        "id": "844d5ce2-7d2c-4794-b590-1f1337d29552",
+        "date": "2019-06-19",
+        "yield": 881,
+        "spread": 108,
+        "price": 218
+    },
+    {
+        "id": "75d87f3f-6636-4d48-8970-923de61302a5",
+        "date": "2019-05-04",
+        "yield": 422,
+        "spread": 161,
+        "price": 276
+    },
+    {
+        "id": "a8d8766a-633d-411d-baaa-f722505a974d",
+        "date": "2019-02-11",
+        "yield": 919,
+        "spread": 373,
+        "price": 302
+    },
+    {
+        "id": "5734ad43-078e-49bb-9a3b-0f16b21709a5",
+        "date": "2019-05-01",
+        "yield": 26,
+        "spread": 7,
+        "price": 625
+    },
+    {
+        "id": "17e4e673-4059-424f-a48e-d931cabdf9d0",
+        "date": "2019-08-25",
+        "yield": 241,
+        "spread": 317,
+        "price": 466
+    },
+    {
+        "id": "91957d31-61d6-444b-a464-fd0e0fd631ff",
+        "date": "2018-04-15",
+        "yield": 565,
+        "spread": 358,
+        "price": 177
+    },
+    {
+        "id": "761e98f6-464d-437f-b541-adb0b1336d4c",
+        "date": "2019-05-13",
+        "yield": 600,
+        "spread": 227,
+        "price": 644
+    },
+    {
+        "id": "f263a6c7-b0cb-4e43-92e9-fed424c3d7e8",
+        "date": "2018-02-24",
+        "yield": 625,
+        "spread": 98,
+        "price": 207
+    },
+    {
+        "id": "02afe1bf-912e-4910-956d-db1b3649c27e",
+        "date": "2019-09-18",
+        "yield": 26,
+        "spread": 17,
+        "price": 654
+    },
+    {
+        "id": "5d36c35a-69a7-4277-950c-3480e0dde004",
+        "date": "2018-08-27",
+        "yield": 32,
+        "spread": 143,
+        "price": 624
+    },
+    {
+        "id": "3b8d7d58-c1b1-4042-97dc-9193785211b5",
+        "date": "2018-11-16",
+        "yield": 538,
+        "spread": 141,
+        "price": 540
+    },
+    {
+        "id": "c4823361-b1db-400c-93c0-ce5da6361ff4",
+        "date": "2019-08-11",
+        "yield": 423,
+        "spread": 384,
+        "price": 596
+    },
+    {
+        "id": "38e1695c-fca1-425e-bac0-e9ae2ce96c8f",
+        "date": "2018-03-08",
+        "yield": 433,
+        "spread": 29,
+        "price": 686
+    },
+    {
+        "id": "89df3810-8aff-499d-bd0a-38ae2a547a2a",
+        "date": "2019-03-25",
+        "yield": 526,
+        "spread": 155,
+        "price": 405
+    },
+    {
+        "id": "649055e2-fbdf-4e58-b4b5-d246c5e239a9",
+        "date": "2018-08-30",
+        "yield": 457,
+        "spread": 268,
+        "price": 671
+    },
+    {
+        "id": "c2d9087f-87f6-4354-ad18-11d4f32a10f6",
+        "date": "2019-11-16",
+        "yield": 841,
+        "spread": 50,
+        "price": 603
+    },
+    {
+        "id": "4a979137-d415-4ec8-863f-a99867882687",
+        "date": "2018-10-06",
+        "yield": 6,
+        "spread": 471,
+        "price": 547
+    },
+    {
+        "id": "2485a3cf-0567-45c0-86ad-b7ee42229722",
+        "date": "2019-04-12",
+        "yield": 609,
+        "spread": 464,
+        "price": 216
+    },
+    {
+        "id": "79eda62f-67d0-4fed-b4e7-7441e717931c",
+        "date": "2018-04-21",
+        "yield": 606,
+        "spread": 243,
+        "price": 654
+    },
+    {
+        "id": "a9597386-de67-4b4a-aab9-a916971e1526",
+        "date": "2018-09-29",
+        "yield": 217,
+        "spread": 257,
+        "price": 417
+    },
+    {
+        "id": "a7ccdbfa-4ef6-48df-958f-cdf4e12db113",
+        "date": "2019-11-17",
+        "yield": 416,
+        "spread": 247,
+        "price": 639
+    },
+    {
+        "id": "453fdc86-8741-4ae5-be49-97f9f1712244",
+        "date": "2018-09-02",
+        "yield": 240,
+        "spread": 48,
+        "price": 417
+    },
+    {
+        "id": "24807b76-9d23-48ae-a07c-2251efc3e0bb",
+        "date": "2018-11-09",
+        "yield": 225,
+        "spread": 283,
+        "price": 428
+    },
+    {
+        "id": "01c6af0a-7a37-4586-a176-1838ad1e78f7",
+        "date": "2018-11-17",
+        "yield": 87,
+        "spread": 497,
+        "price": 475
+    },
+    {
+        "id": "30af69d2-ef8b-4ef2-9674-30e64bb7222d",
+        "date": "2018-01-13",
+        "yield": 922,
+        "spread": 156,
+        "price": 404
+    },
+    {
+        "id": "336456b1-fd1f-47e1-bb76-ff32e3f49ef0",
+        "date": "2018-02-15",
+        "yield": 583,
+        "spread": 215,
+        "price": 625
+    },
+    {
+        "id": "a6247619-8c17-48d3-857c-5a0374d190c8",
+        "date": "2018-02-24",
+        "yield": 119,
+        "spread": 492,
+        "price": 568
+    },
+    {
+        "id": "998ea074-3f04-4bc6-ba9a-4170c26204be",
+        "date": "2018-08-26",
+        "yield": 322,
+        "spread": 465,
+        "price": 343
+    },
+    {
+        "id": "c69ee085-2ae4-4e59-9efc-1a0d0792ca9f",
+        "date": "2018-03-12",
+        "yield": 300,
+        "spread": 340,
+        "price": 654
+    },
+    {
+        "id": "36c04b0c-ec43-4b2d-8ca1-cde1e5eee31a",
+        "date": "2018-02-07",
+        "yield": 541,
+        "spread": 208,
+        "price": 476
+    },
+    {
+        "id": "04856365-ed3e-43a0-9699-72464edafb5e",
+        "date": "2018-08-27",
+        "yield": 885,
+        "spread": 370,
+        "price": 638
+    },
+    {
+        "id": "97ed3515-1459-4cab-9623-0dfbaa92aa44",
+        "date": "2019-06-01",
+        "yield": 446,
+        "spread": 267,
+        "price": 511
+    },
+    {
+        "id": "f70e0918-58e4-4d06-a5fb-943d5f388787",
+        "date": "2018-04-28",
+        "yield": 10,
+        "spread": 486,
+        "price": 632
+    },
+    {
+        "id": "3a79ea2d-02ff-46b1-9927-7ee915ea852d",
+        "date": "2018-02-01",
+        "yield": 114,
+        "spread": 435,
+        "price": 579
+    },
+    {
+        "id": "b3d75407-51a5-4c46-bf61-c693045a703c",
+        "date": "2018-10-01",
+        "yield": 142,
+        "spread": 366,
+        "price": 144
+    },
+    {
+        "id": "6e05fafb-7f44-44c1-b8e3-d73089512ad3",
+        "date": "2018-05-27",
+        "yield": 932,
+        "spread": 4,
+        "price": 211
+    },
+    {
+        "id": "f7bb07ad-e1da-44ec-b73a-b6a719cf7df8",
+        "date": "2019-06-27",
+        "yield": 622,
+        "spread": 196,
+        "price": 106
+    },
+    {
+        "id": "013b102f-3bb2-4ec6-92ca-1e045412dad8",
+        "date": "2019-10-19",
+        "yield": 583,
+        "spread": 29,
+        "price": 664
+    },
+    {
+        "id": "f7ee8145-71cd-4817-9d77-1872245bc0d8",
+        "date": "2018-12-31",
+        "yield": 151,
+        "spread": 328,
+        "price": 598
+    },
+    {
+        "id": "56b70369-898c-4ca8-9175-e149070e4bf9",
+        "date": "2019-08-24",
+        "yield": 738,
+        "spread": 179,
+        "price": 225
+    },
+    {
+        "id": "0e830b2e-6688-47e3-a23c-3f49cb2562a5",
+        "date": "2019-04-04",
+        "yield": 763,
+        "spread": 157,
+        "price": 452
+    },
+    {
+        "id": "56c37e40-d84a-4dad-aa9b-5e99ea4b93c0",
+        "date": "2018-07-01",
+        "yield": 488,
+        "spread": 428,
+        "price": 563
+    },
+    {
+        "id": "6f6e4cf0-b42b-4b31-a60c-1f7172c5de7a",
+        "date": "2018-12-18",
+        "yield": 454,
+        "spread": 422,
+        "price": 333
+    },
+    {
+        "id": "33658e44-23d8-4053-9067-dc519f426d4d",
+        "date": "2019-09-23",
+        "yield": 441,
+        "spread": 137,
+        "price": 674
+    },
+    {
+        "id": "afb165da-6a9b-4545-86fa-52c030c9d150",
+        "date": "2018-06-06",
+        "yield": 801,
+        "spread": 458,
+        "price": 114
+    },
+    {
+        "id": "e3db411a-7f5d-478e-bce5-45a70be30750",
+        "date": "2018-07-28",
+        "yield": 832,
+        "spread": 326,
+        "price": 353
+    },
+    {
+        "id": "0d9519b2-937e-43a9-8184-f3f74fe30fbc",
+        "date": "2018-07-23",
+        "yield": 492,
+        "spread": 306,
+        "price": 483
+    },
+    {
+        "id": "d2635dd4-b669-4419-99b3-10c0a171818d",
+        "date": "2019-06-22",
+        "yield": 978,
+        "spread": 283,
+        "price": 638
+    },
+    {
+        "id": "6b0a3b5a-a824-499c-90be-3f5e2a5ae19a",
+        "date": "2018-08-28",
+        "yield": 980,
+        "spread": 445,
+        "price": 281
+    },
+    {
+        "id": "038e6138-1b32-4332-b0cb-62bae7761997",
+        "date": "2018-06-11",
+        "yield": 104,
+        "spread": 71,
+        "price": 646
+    },
+    {
+        "id": "286259ee-bf74-4bbb-98f0-d882d553a9d1",
+        "date": "2019-08-01",
+        "yield": 1,
+        "spread": 481,
+        "price": 247
+    },
+    {
+        "id": "fb14975b-cb39-484e-9a5f-20ee7d73c471",
+        "date": "2018-06-09",
+        "yield": 329,
+        "spread": 156,
+        "price": 367
+    },
+    {
+        "id": "8e99085a-c392-4944-a58d-ebedfc4560a5",
+        "date": "2019-01-14",
+        "yield": 605,
+        "spread": 9,
+        "price": 389
+    },
+    {
+        "id": "247ba028-1008-4c3c-9aae-ea944b90613a",
+        "date": "2019-08-02",
+        "yield": 663,
+        "spread": 482,
+        "price": 644
+    },
+    {
+        "id": "4322a922-7b33-4fa5-9228-39caad06b8d0",
+        "date": "2019-03-21",
+        "yield": 56,
+        "spread": 288,
+        "price": 503
+    },
+    {
+        "id": "024f4a2b-1a33-44b4-9296-88ad87e60d7c",
+        "date": "2018-05-09",
+        "yield": 994,
+        "spread": 136,
+        "price": 272
+    },
+    {
+        "id": "51aa9e65-3bc8-4b08-bcd6-1ab61aeee772",
+        "date": "2019-06-04",
+        "yield": 905,
+        "spread": 264,
+        "price": 443
+    },
+    {
+        "id": "ce0b2d48-ecd7-4882-a90c-a71e729115d3",
+        "date": "2019-07-16",
+        "yield": 508,
+        "spread": 398,
+        "price": 491
+    },
+    {
+        "id": "380b68dd-2a02-4997-92a5-ce6049f86ef3",
+        "date": "2018-07-14",
+        "yield": 617,
+        "spread": 485,
+        "price": 341
+    },
+    {
+        "id": "5d6e2a76-5db3-48cd-a07b-e25f36698141",
+        "date": "2019-03-23",
+        "yield": 573,
+        "spread": 482,
+        "price": 226
+    },
+    {
+        "id": "9c7b1949-c0f1-4a35-9331-397333837c85",
+        "date": "2019-03-08",
+        "yield": 439,
+        "spread": 490,
+        "price": 390
+    },
+    {
+        "id": "57c2ce16-b43f-4562-9224-f3cb13ebae3c",
+        "date": "2018-12-16",
+        "yield": 594,
+        "spread": 234,
+        "price": 147
+    },
+    {
+        "id": "758e9975-c34d-4bf0-8e3d-4ebedb0eaea2",
+        "date": "2019-08-21",
+        "yield": 941,
+        "spread": 351,
+        "price": 345
+    },
+    {
+        "id": "5318d780-fe46-4117-a8fb-5e1773eefdfb",
+        "date": "2019-03-30",
+        "yield": 384,
+        "spread": 70,
+        "price": 407
+    },
+    {
+        "id": "24330aa2-fbde-4854-93b8-bfd91531c539",
+        "date": "2019-01-15",
+        "yield": 544,
+        "spread": 422,
+        "price": 666
+    },
+    {
+        "id": "b3626dae-b858-4058-8b5a-024838d1bfc4",
+        "date": "2018-01-11",
+        "yield": 945,
+        "spread": 11,
+        "price": 222
+    },
+    {
+        "id": "4e913ca7-32bb-4493-a842-4b3bc6dbd3ac",
+        "date": "2018-02-28",
+        "yield": 667,
+        "spread": 23,
+        "price": 688
+    },
+    {
+        "id": "e941233e-18a1-4d1a-8601-67620841b265",
+        "date": "2018-11-12",
+        "yield": 546,
+        "spread": 289,
+        "price": 543
+    },
+    {
+        "id": "7445677c-61a8-4445-b2bc-a1d235502612",
+        "date": "2018-02-18",
+        "yield": 990,
+        "spread": 320,
+        "price": 341
+    },
+    {
+        "id": "0519980e-a82e-4649-8bff-e19e6d6b8629",
+        "date": "2018-10-22",
+        "yield": 256,
+        "spread": 151,
+        "price": 439
+    },
+    {
+        "id": "90a24e6e-738a-4f7f-a64d-4067fb7fbd5a",
+        "date": "2018-08-12",
+        "yield": 121,
+        "spread": 311,
+        "price": 489
+    },
+    {
+        "id": "5f8a65e2-e667-4e54-9964-af9000fade21",
+        "date": "2018-01-27",
+        "yield": 731,
+        "spread": 108,
+        "price": 317
+    },
+    {
+        "id": "8d94ed3b-cf58-4f57-9678-afeb47327019",
+        "date": "2018-04-10",
+        "yield": 718,
+        "spread": 340,
+        "price": 698
+    },
+    {
+        "id": "ed276a5b-352f-460d-819f-ee0c5695d0b3",
+        "date": "2018-01-21",
+        "yield": 878,
+        "spread": 217,
+        "price": 415
+    },
+    {
+        "id": "3d93b790-6493-4bc4-8914-e34761aebb85",
+        "date": "2018-04-30",
+        "yield": 906,
+        "spread": 241,
+        "price": 560
+    },
+    {
+        "id": "dc6bf9b0-f71e-496f-84cc-ee4c5e94b14e",
+        "date": "2018-07-22",
+        "yield": 801,
+        "spread": 381,
+        "price": 599
+    },
+    {
+        "id": "b5b57995-10d3-4e2c-9b95-966fc31cf892",
+        "date": "2018-05-03",
+        "yield": 275,
+        "spread": 446,
+        "price": 276
+    },
+    {
+        "id": "177283ba-0327-4f41-818b-ad87056ee514",
+        "date": "2018-01-22",
+        "yield": 306,
+        "spread": 327,
+        "price": 559
+    },
+    {
+        "id": "9d5fb70c-a298-4270-b1be-c356fb9812a4",
+        "date": "2019-05-13",
+        "yield": 932,
+        "spread": 136,
+        "price": 253
+    },
+    {
+        "id": "aa373a2e-ec9e-4d6a-9c3c-fffa0917a1c9",
+        "date": "2018-05-25",
+        "yield": 134,
+        "spread": 123,
+        "price": 302
+    },
+    {
+        "id": "486a411f-2c6a-4427-a998-c15575a89843",
+        "date": "2019-12-22",
+        "yield": 461,
+        "spread": 333,
+        "price": 381
+    },
+    {
+        "id": "30930527-3d8b-4afa-825a-c59452f82805",
+        "date": "2018-08-29",
+        "yield": 556,
+        "spread": 67,
+        "price": 516
+    },
+    {
+        "id": "e1a6e5d8-d5e0-44a7-ac9e-f215a5036633",
+        "date": "2018-05-13",
+        "yield": 265,
+        "spread": 47,
+        "price": 437
+    },
+    {
+        "id": "8e6dadfc-2bef-45a0-93f3-c1f39a75349a",
+        "date": "2018-07-21",
+        "yield": 839,
+        "spread": 64,
+        "price": 683
+    },
+    {
+        "id": "3a4fb3cf-712d-4791-a63c-80e93bd201c6",
+        "date": "2018-02-11",
+        "yield": 525,
+        "spread": 490,
+        "price": 688
+    },
+    {
+        "id": "3c462cd5-ab07-4953-8166-54d50d1f9d2f",
+        "date": "2019-04-04",
+        "yield": 329,
+        "spread": 274,
+        "price": 452
+    },
+    {
+        "id": "f312c3c4-1aca-4830-8853-557e8ec7e8a0",
+        "date": "2018-09-11",
+        "yield": 693,
+        "spread": 288,
+        "price": 574
+    },
+    {
+        "id": "ecacc69f-c64a-43f4-b6e8-7975b54d7bd0",
+        "date": "2018-07-14",
+        "yield": 943,
+        "spread": 210,
+        "price": 670
+    },
+    {
+        "id": "8d18eea9-b7e0-43e4-ac4a-42ec78e8f721",
+        "date": "2018-07-30",
+        "yield": 595,
+        "spread": 324,
+        "price": 450
+    },
+    {
+        "id": "d62ef836-6dbe-46d8-97b1-8747d871b153",
+        "date": "2018-09-29",
+        "yield": 313,
+        "spread": 23,
+        "price": 430
+    },
+    {
+        "id": "71d574db-be44-44ca-9772-947945b374c3",
+        "date": "2018-09-29",
+        "yield": 804,
+        "spread": 106,
+        "price": 526
+    },
+    {
+        "id": "7510d328-5ff4-4362-8ee2-8ff4e49288df",
+        "date": "2019-06-11",
+        "yield": 375,
+        "spread": 114,
+        "price": 695
+    },
+    {
+        "id": "9f771dde-f08a-4e20-a394-89f0cdccbda5",
+        "date": "2018-09-15",
+        "yield": 557,
+        "spread": 174,
+        "price": 197
+    },
+    {
+        "id": "109206db-c774-4408-b15e-ca651c62a2ee",
+        "date": "2018-02-01",
+        "yield": 51,
+        "spread": 135,
+        "price": 436
+    },
+    {
+        "id": "769abed5-1946-4cab-b918-32736568cf7d",
+        "date": "2019-09-07",
+        "yield": 802,
+        "spread": 3,
+        "price": 132
+    },
+    {
+        "id": "d9ab7011-7e68-4f9b-ac48-77fe579b5f8b",
+        "date": "2018-03-30",
+        "yield": 564,
+        "spread": 452,
+        "price": 199
+    },
+    {
+        "id": "29ec197d-5ac9-4d4e-8da3-43d9d4c63a0a",
+        "date": "2018-12-15",
+        "yield": 573,
+        "spread": 422,
+        "price": 203
+    },
+    {
+        "id": "75ec2e6a-5e89-4caa-83d8-7b7ecdbc99e4",
+        "date": "2019-12-18",
+        "yield": 335,
+        "spread": 472,
+        "price": 553
+    },
+    {
+        "id": "70edcf26-52a7-44a9-b690-76c058dcdcd7",
+        "date": "2018-04-16",
+        "yield": 305,
+        "spread": 359,
+        "price": 376
+    },
+    {
+        "id": "126479c8-f916-4d84-8db1-31bcfd0aa5bf",
+        "date": "2018-03-12",
+        "yield": 744,
+        "spread": 195,
+        "price": 666
+    },
+    {
+        "id": "7cc473ef-2ef5-4488-a368-15409b02e0e4",
+        "date": "2019-12-02",
+        "yield": 625,
+        "spread": 37,
+        "price": 592
+    },
+    {
+        "id": "e542b07e-89df-4fb4-b051-f962c1e96b22",
+        "date": "2018-03-24",
+        "yield": 429,
+        "spread": 26,
+        "price": 594
+    },
+    {
+        "id": "e06e25bc-92c7-48cf-8fad-aae62aeff3d1",
+        "date": "2018-11-12",
+        "yield": 787,
+        "spread": 125,
+        "price": 362
+    },
+    {
+        "id": "5b88d368-dfaa-40d9-b5bd-a8cd2e2246e6",
+        "date": "2018-06-26",
+        "yield": 33,
+        "spread": 425,
+        "price": 210
+    },
+    {
+        "id": "97f90c8d-f7a8-4775-8571-aaf29677ed7c",
+        "date": "2019-05-30",
+        "yield": 889,
+        "spread": 3,
+        "price": 129
+    },
+    {
+        "id": "8f218dcc-2c90-4d65-99fb-e3dde5d7e9a6",
+        "date": "2018-12-19",
+        "yield": 867,
+        "spread": 172,
+        "price": 313
+    },
+    {
+        "id": "b8d54585-6cc6-4b90-b51a-6bf833575bf9",
+        "date": "2018-09-10",
+        "yield": 520,
+        "spread": 362,
+        "price": 407
+    },
+    {
+        "id": "a07664a6-81a2-4116-9c90-717d05e08f7d",
+        "date": "2019-11-24",
+        "yield": 662,
+        "spread": 173,
+        "price": 264
+    },
+    {
+        "id": "60e01215-fe47-41e1-9323-04223e35b6b0",
+        "date": "2018-07-19",
+        "yield": 886,
+        "spread": 220,
+        "price": 582
+    },
+    {
+        "id": "f0b9e0fa-a913-4a9c-86b5-f325ef89cf38",
+        "date": "2019-03-05",
+        "yield": 898,
+        "spread": 206,
+        "price": 700
+    },
+    {
+        "id": "8875b25c-c64e-4c43-a7b6-b670b0e0e83b",
+        "date": "2019-08-02",
+        "yield": 898,
+        "spread": 236,
+        "price": 682
+    },
+    {
+        "id": "547e57fa-8a24-4f3d-81e0-2233bec03dde",
+        "date": "2019-12-02",
+        "yield": 454,
+        "spread": 355,
+        "price": 257
+    },
+    {
+        "id": "75509db8-cc53-4b25-88a8-a59651e351de",
+        "date": "2018-12-21",
+        "yield": 365,
+        "spread": 100,
+        "price": 207
+    },
+    {
+        "id": "614aec17-c688-43bd-9a95-443c69f5ba95",
+        "date": "2018-10-05",
+        "yield": 447,
+        "spread": 454,
+        "price": 138
+    },
+    {
+        "id": "ff4654d8-6b72-4eae-98c4-df22dd0bac83",
+        "date": "2018-07-08",
+        "yield": 555,
+        "spread": 112,
+        "price": 516
+    },
+    {
+        "id": "c05452a8-6f6b-4c76-be1a-604616756256",
+        "date": "2019-07-09",
+        "yield": 872,
+        "spread": 435,
+        "price": 656
+    },
+    {
+        "id": "8a6d3514-10af-4ea0-b331-007418755ec8",
+        "date": "2019-04-06",
+        "yield": 749,
+        "spread": 83,
+        "price": 199
+    },
+    {
+        "id": "d1583e96-e6e6-49b5-8643-a4acfb399f5e",
+        "date": "2019-05-07",
+        "yield": 909,
+        "spread": 19,
+        "price": 180
+    },
+    {
+        "id": "7142c1ac-7e3b-44bc-acee-8a372460ad6b",
+        "date": "2019-08-27",
+        "yield": 186,
+        "spread": 403,
+        "price": 567
+    },
+    {
+        "id": "1798f0b4-4d60-494b-805b-5e4b1af51ac9",
+        "date": "2019-09-19",
+        "yield": 275,
+        "spread": 421,
+        "price": 566
+    },
+    {
+        "id": "cef39c3b-05db-4b22-b960-59ba385ac8ef",
+        "date": "2019-01-11",
+        "yield": 204,
+        "spread": 120,
+        "price": 209
+    },
+    {
+        "id": "79fb89a5-677f-42a3-9000-12a486d9435b",
+        "date": "2019-05-19",
+        "yield": 657,
+        "spread": 241,
+        "price": 264
+    },
+    {
+        "id": "a6efb2aa-9196-4a49-b6aa-7b04d5b95729",
+        "date": "2019-05-17",
+        "yield": 799,
+        "spread": 197,
+        "price": 349
+    },
+    {
+        "id": "10c09b5b-8d8f-409d-ab66-497e4b0f68b2",
+        "date": "2018-03-21",
+        "yield": 645,
+        "spread": 317,
+        "price": 654
+    },
+    {
+        "id": "dda67f38-9cae-433d-a07b-d0c079a82988",
+        "date": "2018-11-15",
+        "yield": 750,
+        "spread": 24,
+        "price": 509
+    },
+    {
+        "id": "71f820f3-b0a5-4fac-af87-4e5836604f26",
+        "date": "2018-05-08",
+        "yield": 261,
+        "spread": 346,
+        "price": 407
+    },
+    {
+        "id": "7289df19-533d-452e-a34b-e33c68747b13",
+        "date": "2019-06-23",
+        "yield": 847,
+        "spread": 498,
+        "price": 426
+    },
+    {
+        "id": "9d07e635-1e83-4048-be29-9ba01b24ddf2",
+        "date": "2018-07-23",
+        "yield": 548,
+        "spread": 475,
+        "price": 129
+    },
+    {
+        "id": "66e61355-9b6e-46a7-a3d8-1cdf73abaa18",
+        "date": "2018-07-28",
+        "yield": 730,
+        "spread": 51,
+        "price": 673
+    },
+    {
+        "id": "9070d4f4-0306-478a-be99-d4c239218100",
+        "date": "2018-01-11",
+        "yield": 227,
+        "spread": 500,
+        "price": 319
+    },
+    {
+        "id": "21b585e4-b30d-4a6b-b0e5-95011476372d",
+        "date": "2018-04-06",
+        "yield": 222,
+        "spread": 226,
+        "price": 438
+    },
+    {
+        "id": "e8b514f5-6df0-4605-a746-b90e9223cc64",
+        "date": "2019-02-21",
+        "yield": 69,
+        "spread": 46,
+        "price": 252
+    },
+    {
+        "id": "1f94dda5-97a0-4afa-a928-bbccc0f841b4",
+        "date": "2018-01-10",
+        "yield": 147,
+        "spread": 368,
+        "price": 209
+    },
+    {
+        "id": "dab394ee-c4a8-406c-8aac-8ebbf4b96f45",
+        "date": "2018-05-10",
+        "yield": 569,
+        "spread": 272,
+        "price": 344
+    },
+    {
+        "id": "5fa9d20e-71c9-4808-b3ce-b8bbaedf780e",
+        "date": "2018-05-18",
+        "yield": 543,
+        "spread": 262,
+        "price": 292
+    },
+    {
+        "id": "6e116fec-cc2a-4ce2-9f43-9e9fe3ca63e7",
+        "date": "2019-10-15",
+        "yield": 171,
+        "spread": 314,
+        "price": 103
+    },
+    {
+        "id": "94c19bef-e7f8-4b0f-98ff-7b665b0299e6",
+        "date": "2019-10-31",
+        "yield": 419,
+        "spread": 6,
+        "price": 367
+    },
+    {
+        "id": "54b590d3-ea20-4fd7-983b-082cf4be3621",
+        "date": "2018-10-26",
+        "yield": 926,
+        "spread": 493,
+        "price": 602
+    },
+    {
+        "id": "fa527eb4-b30c-4c79-a366-eabe01a0d321",
+        "date": "2018-12-16",
+        "yield": 403,
+        "spread": 402,
+        "price": 386
+    },
+    {
+        "id": "f383e4c9-7787-403c-a333-9ff983fe71f9",
+        "date": "2018-09-10",
+        "yield": 58,
+        "spread": 45,
+        "price": 286
+    },
+    {
+        "id": "9b472820-d08d-4f4c-b100-89c9ea16be66",
+        "date": "2019-08-25",
+        "yield": 181,
+        "spread": 102,
+        "price": 168
+    },
+    {
+        "id": "59da89ed-224e-4e64-a13d-81037fa49040",
+        "date": "2018-12-15",
+        "yield": 965,
+        "spread": 66,
+        "price": 633
+    },
+    {
+        "id": "0762c505-9ce8-4dd2-abe4-18a2a7fb110f",
+        "date": "2018-11-04",
+        "yield": 992,
+        "spread": 304,
+        "price": 442
+    },
+    {
+        "id": "49e5b7ff-ed09-41fc-bf23-adceef790eb7",
+        "date": "2018-06-03",
+        "yield": 532,
+        "spread": 226,
+        "price": 187
+    },
+    {
+        "id": "bfc99925-07d8-4be2-b201-2cf7473e2cf8",
+        "date": "2018-02-01",
+        "yield": 544,
+        "spread": 34,
+        "price": 569
+    },
+    {
+        "id": "d21bc6f0-2ceb-4ae3-8999-88244ff79f1f",
+        "date": "2019-12-01",
+        "yield": 268,
+        "spread": 272,
+        "price": 232
+    },
+    {
+        "id": "1cd4ec6d-7e4b-44bf-88b5-cd0511d7b1eb",
+        "date": "2019-09-29",
+        "yield": 771,
+        "spread": 428,
+        "price": 497
+    },
+    {
+        "id": "053ed05c-1c19-4299-b95d-3674e3ccf812",
+        "date": "2019-03-21",
+        "yield": 424,
+        "spread": 151,
+        "price": 459
+    },
+    {
+        "id": "b7353eb7-d86b-4388-8311-d05bdb2c98d5",
+        "date": "2018-07-21",
+        "yield": 812,
+        "spread": 429,
+        "price": 149
+    },
+    {
+        "id": "be6b9203-831f-4ac4-ac6b-f6413b1fc690",
+        "date": "2019-11-29",
+        "yield": 823,
+        "spread": 32,
+        "price": 566
+    },
+    {
+        "id": "038727c0-b4ad-494f-91e2-c2062437ce81",
+        "date": "2018-12-12",
+        "yield": 74,
+        "spread": 427,
+        "price": 645
+    },
+    {
+        "id": "026eb6bc-c069-41a8-9639-d07a1aa66adc",
+        "date": "2019-07-24",
+        "yield": 180,
+        "spread": 178,
+        "price": 585
+    },
+    {
+        "id": "0af8b6c4-601e-4aa7-b376-991339c3653d",
+        "date": "2018-05-14",
+        "yield": 354,
+        "spread": 61,
+        "price": 433
+    },
+    {
+        "id": "3fcc6080-5a7b-4522-8e23-da06e4395e8a",
+        "date": "2019-10-03",
+        "yield": 262,
+        "spread": 326,
+        "price": 232
+    },
+    {
+        "id": "c9a1519f-8544-4e47-91ac-3aef8a06c2c5",
+        "date": "2019-04-10",
+        "yield": 514,
+        "spread": 183,
+        "price": 418
+    },
+    {
+        "id": "4d2c72a7-4fef-473f-9a30-13225f5dea58",
+        "date": "2019-05-08",
+        "yield": 565,
+        "spread": 143,
+        "price": 180
+    },
+    {
+        "id": "bfb3b4b8-65c8-4c01-bcf9-9e24346990a2",
+        "date": "2018-09-03",
+        "yield": 877,
+        "spread": 77,
+        "price": 367
+    },
+    {
+        "id": "a553dab1-cefc-4d8c-8695-67ad3fac1d3d",
+        "date": "2018-09-17",
+        "yield": 670,
+        "spread": 160,
+        "price": 340
+    },
+    {
+        "id": "e037e102-203a-4591-ab7b-8e65b9254899",
+        "date": "2018-09-15",
+        "yield": 910,
+        "spread": 135,
+        "price": 145
+    },
+    {
+        "id": "cf3dbb04-d633-4654-900c-089e0d01315b",
+        "date": "2018-09-24",
+        "yield": 273,
+        "spread": 358,
+        "price": 667
+    },
+    {
+        "id": "3e8e24fe-5dc7-49bc-976c-f99553c23037",
+        "date": "2018-01-08",
+        "yield": 486,
+        "spread": 447,
+        "price": 394
+    },
+    {
+        "id": "74bca7b1-b5b4-4f30-8976-1ad41a8ef25c",
+        "date": "2018-07-15",
+        "yield": 233,
+        "spread": 430,
+        "price": 680
+    },
+    {
+        "id": "998e5b81-008a-4ef1-bf5a-fa9c3ff35739",
+        "date": "2018-11-08",
+        "yield": 658,
+        "spread": 305,
+        "price": 358
+    },
+    {
+        "id": "925c3123-f722-4dea-91ff-444808825b29",
+        "date": "2018-06-01",
+        "yield": 477,
+        "spread": 60,
+        "price": 591
+    },
+    {
+        "id": "1610096a-8c82-4457-a774-12d20b4dff4a",
+        "date": "2019-04-13",
+        "yield": 302,
+        "spread": 205,
+        "price": 580
+    },
+    {
+        "id": "da6b938b-7583-4886-bdf6-290f9a390df3",
+        "date": "2019-03-30",
+        "yield": 541,
+        "spread": 269,
+        "price": 618
+    },
+    {
+        "id": "814a8bc9-fbe6-44a5-a644-c91f6607210b",
+        "date": "2018-06-18",
+        "yield": 26,
+        "spread": 411,
+        "price": 696
+    },
+    {
+        "id": "c541eafe-0a0d-40b4-adb3-27747eeee589",
+        "date": "2019-02-02",
+        "yield": 552,
+        "spread": 383,
+        "price": 120
+    },
+    {
+        "id": "142c4e85-6c1c-4541-9c2a-87d4b6130627",
+        "date": "2019-08-23",
+        "yield": 28,
+        "spread": 78,
+        "price": 271
+    },
+    {
+        "id": "d131cc9b-d105-460a-9051-00df8752f0db",
+        "date": "2018-09-21",
+        "yield": 59,
+        "spread": 213,
+        "price": 213
+    },
+    {
+        "id": "3d45a2d4-7315-4bbc-b7de-0a1d5a4294f0",
+        "date": "2018-09-12",
+        "yield": 736,
+        "spread": 341,
+        "price": 303
+    },
+    {
+        "id": "eebc412e-7948-4fec-8a62-6d1509189fa7",
+        "date": "2019-08-07",
+        "yield": 273,
+        "spread": 180,
+        "price": 451
+    },
+    {
+        "id": "98481b1a-2538-4f8c-a4a2-46bbcd2a05df",
+        "date": "2018-10-06",
+        "yield": 275,
+        "spread": 259,
+        "price": 534
+    },
+    {
+        "id": "a649f1e4-9db1-4ea7-b8e0-189285165a86",
+        "date": "2018-03-31",
+        "yield": 766,
+        "spread": 472,
+        "price": 492
+    },
+    {
+        "id": "bb32875e-f0ce-44c5-bc6d-f7f8bd19ab49",
+        "date": "2018-11-17",
+        "yield": 378,
+        "spread": 363,
+        "price": 123
+    },
+    {
+        "id": "52bf2612-482c-4a43-a609-35b672761e02",
+        "date": "2019-07-16",
+        "yield": 785,
+        "spread": 258,
+        "price": 386
+    },
+    {
+        "id": "a120ddec-0a1d-4a1d-bdd9-ad53f3639a65",
+        "date": "2018-07-04",
+        "yield": 848,
+        "spread": 62,
+        "price": 393
+    },
+    {
+        "id": "6e03d20e-36d9-499e-8131-dbd636a8922b",
+        "date": "2018-09-13",
+        "yield": 20,
+        "spread": 225,
+        "price": 370
+    },
+    {
+        "id": "41ada59e-11dc-44c8-9388-43384015e877",
+        "date": "2019-11-19",
+        "yield": 60,
+        "spread": 372,
+        "price": 305
+    },
+    {
+        "id": "cc639e63-4efc-4fe8-b6a6-3282f10faea8",
+        "date": "2019-12-09",
+        "yield": 403,
+        "spread": 154,
+        "price": 328
+    },
+    {
+        "id": "910cc7a7-b7cd-412b-8de7-aaf161de39ee",
+        "date": "2019-06-18",
+        "yield": 547,
+        "spread": 362,
+        "price": 560
+    },
+    {
+        "id": "0a1ee1bc-41df-47bc-a73f-988aba06edd4",
+        "date": "2018-07-26",
+        "yield": 358,
+        "spread": 416,
+        "price": 111
+    },
+    {
+        "id": "a97df4b7-f290-4f55-a35f-c051f87e0b6f",
+        "date": "2019-08-11",
+        "yield": 166,
+        "spread": 338,
+        "price": 136
+    },
+    {
+        "id": "7cda5381-8dfd-49d5-a415-9a4a070792f4",
+        "date": "2018-04-22",
+        "yield": 662,
+        "spread": 461,
+        "price": 388
+    },
+    {
+        "id": "fba65cfc-2cbb-46b7-a040-7dccf65ffd06",
+        "date": "2019-08-05",
+        "yield": 981,
+        "spread": 361,
+        "price": 339
+    },
+    {
+        "id": "036f7998-1bb6-41ff-9805-a9f3cc7d6737",
+        "date": "2019-12-24",
+        "yield": 644,
+        "spread": 312,
+        "price": 573
+    },
+    {
+        "id": "42a8efa1-09df-42ae-a4b5-9b858a4ee22c",
+        "date": "2019-03-21",
+        "yield": 874,
+        "spread": 409,
+        "price": 129
+    },
+    {
+        "id": "53b8bf16-8a33-4b8c-a6fb-f5c05d7f752a",
+        "date": "2018-04-12",
+        "yield": 195,
+        "spread": 189,
+        "price": 160
+    },
+    {
+        "id": "917b38d3-38a5-47c0-be6d-d61d0df27f4f",
+        "date": "2018-10-09",
+        "yield": 89,
+        "spread": 319,
+        "price": 345
+    },
+    {
+        "id": "c7e80ca0-c419-47d3-82fa-30268d0eb115",
+        "date": "2019-04-16",
+        "yield": 899,
+        "spread": 28,
+        "price": 427
+    },
+    {
+        "id": "8370d0f5-becb-4ccf-8d0b-0270fbfcbcb1",
+        "date": "2019-10-17",
+        "yield": 800,
+        "spread": 192,
+        "price": 228
+    },
+    {
+        "id": "0cd36b02-0d07-4d52-8844-852e93831122",
+        "date": "2018-03-12",
+        "yield": 256,
+        "spread": 179,
+        "price": 644
+    },
+    {
+        "id": "7775637b-6ee4-48af-b303-ca6b8e5d2864",
+        "date": "2018-09-18",
+        "yield": 339,
+        "spread": 39,
+        "price": 494
+    },
+    {
+        "id": "da45255b-01fe-4a19-89b7-9211a5ef4107",
+        "date": "2018-07-04",
+        "yield": 474,
+        "spread": 122,
+        "price": 431
+    },
+    {
+        "id": "e031f7b8-d90f-419d-b13d-5abf7013d521",
+        "date": "2018-09-27",
+        "yield": 335,
+        "spread": 427,
+        "price": 635
+    },
+    {
+        "id": "4d13f538-d8f9-45e3-8f5b-79d50288db04",
+        "date": "2018-03-22",
+        "yield": 360,
+        "spread": 449,
+        "price": 330
+    },
+    {
+        "id": "35193ff5-e227-4b85-b8ed-11589a4c57c2",
+        "date": "2018-07-29",
+        "yield": 422,
+        "spread": 382,
+        "price": 308
+    },
+    {
+        "id": "ae75310c-f6ec-414c-9bbb-1aed28807e1a",
+        "date": "2018-05-03",
+        "yield": 383,
+        "spread": 224,
+        "price": 438
+    },
+    {
+        "id": "eed8a55f-96da-43bd-9e81-6b8720a3df03",
+        "date": "2018-04-02",
+        "yield": 434,
+        "spread": 198,
+        "price": 504
+    },
+    {
+        "id": "d874e20b-a5eb-4654-a512-e473678c5ed5",
+        "date": "2018-08-01",
+        "yield": 443,
+        "spread": 373,
+        "price": 480
+    },
+    {
+        "id": "c461c786-71eb-4a3b-bf33-10b1f9f761ce",
+        "date": "2018-03-24",
+        "yield": 134,
+        "spread": 15,
+        "price": 310
+    },
+    {
+        "id": "84284a49-2c1a-4b54-b84b-2a248f8467d0",
+        "date": "2018-02-28",
+        "yield": 464,
+        "spread": 165,
+        "price": 475
+    },
+    {
+        "id": "34421e76-69f6-4e15-b179-57e07f418db0",
+        "date": "2018-11-16",
+        "yield": 159,
+        "spread": 246,
+        "price": 598
+    },
+    {
+        "id": "0fbd9881-40e2-4568-a3d4-a64ea9fb0add",
+        "date": "2018-05-29",
+        "yield": 650,
+        "spread": 306,
+        "price": 684
+    },
+    {
+        "id": "c0a17f4c-2bec-422a-9bf4-2a3acf3bb86f",
+        "date": "2019-02-28",
+        "yield": 377,
+        "spread": 235,
+        "price": 552
+    },
+    {
+        "id": "8c95c511-892f-470b-80be-d6a91eb18c5a",
+        "date": "2018-09-21",
+        "yield": 678,
+        "spread": 264,
+        "price": 561
+    },
+    {
+        "id": "8fe86358-5f3e-4002-b909-b953c3ea982b",
+        "date": "2018-04-13",
+        "yield": 900,
+        "spread": 103,
+        "price": 365
+    },
+    {
+        "id": "2a9bd3ba-3450-4951-b50d-6f082d1d9fec",
+        "date": "2018-08-02",
+        "yield": 25,
+        "spread": 185,
+        "price": 168
+    },
+    {
+        "id": "4b1fa220-bf10-4170-ae06-8a0b314798ed",
+        "date": "2019-08-27",
+        "yield": 230,
+        "spread": 39,
+        "price": 336
+    },
+    {
+        "id": "dbdbc762-f0e4-478f-b7eb-7da3336ebad2",
+        "date": "2018-02-05",
+        "yield": 383,
+        "spread": 424,
+        "price": 143
+    },
+    {
+        "id": "44d8361f-13c5-40bd-b9fe-4b22cae88bc6",
+        "date": "2018-01-16",
+        "yield": 928,
+        "spread": 196,
+        "price": 337
+    },
+    {
+        "id": "d46d42ad-e4cf-46a3-83f0-5d4f451343b1",
+        "date": "2018-11-29",
+        "yield": 729,
+        "spread": 9,
+        "price": 286
+    },
+    {
+        "id": "fd7f4614-ee73-45a3-812b-eb18b3a6dbdf",
+        "date": "2019-08-06",
+        "yield": 886,
+        "spread": 179,
+        "price": 385
+    },
+    {
+        "id": "a052a0db-2d2e-464c-99d0-7e8b05cd081d",
+        "date": "2018-09-23",
+        "yield": 473,
+        "spread": 54,
+        "price": 337
+    },
+    {
+        "id": "3c882fa9-64c9-44e0-a503-1ef2fb8a141a",
+        "date": "2018-10-25",
+        "yield": 807,
+        "spread": 247,
+        "price": 697
+    },
+    {
+        "id": "08adce94-676b-4f34-817c-42fbc6525a80",
+        "date": "2018-02-16",
+        "yield": 797,
+        "spread": 485,
+        "price": 504
+    },
+    {
+        "id": "32559dcc-30b4-48c0-9b00-eaa85d64220a",
+        "date": "2019-01-03",
+        "yield": 397,
+        "spread": 480,
+        "price": 389
+    },
+    {
+        "id": "489ae13c-d2c9-4b22-91c9-18f780c444c4",
+        "date": "2019-07-23",
+        "yield": 996,
+        "spread": 73,
+        "price": 518
+    },
+    {
+        "id": "8fffba9c-f4eb-41c3-9151-de6db4fd2970",
+        "date": "2018-09-19",
+        "yield": 712,
+        "spread": 285,
+        "price": 300
+    },
+    {
+        "id": "c1de4629-ed84-4d22-941e-3c38edaeb659",
+        "date": "2018-12-03",
+        "yield": 797,
+        "spread": 317,
+        "price": 680
+    },
+    {
+        "id": "5217b987-d7a0-4fe5-b113-d8eef1319032",
+        "date": "2019-06-21",
+        "yield": 501,
+        "spread": 176,
+        "price": 433
+    },
+    {
+        "id": "ee93d2b1-33bd-4a75-9f27-fb6a4032e6aa",
+        "date": "2018-06-09",
+        "yield": 200,
+        "spread": 426,
+        "price": 289
+    },
+    {
+        "id": "3086e7f8-f1d1-43f7-852d-e0d940b5c82f",
+        "date": "2019-12-14",
+        "yield": 368,
+        "spread": 252,
+        "price": 283
+    },
+    {
+        "id": "f50e871b-641f-4099-a888-75c34f01133d",
+        "date": "2018-02-18",
+        "yield": 945,
+        "spread": 325,
+        "price": 593
+    },
+    {
+        "id": "7a6e42c9-eb69-4d84-ba72-3751f90cb78d",
+        "date": "2018-12-14",
+        "yield": 743,
+        "spread": 367,
+        "price": 329
+    },
+    {
+        "id": "902563f1-b9b3-45b0-ba08-ab48ba0b3e5d",
+        "date": "2018-12-25",
+        "yield": 811,
+        "spread": 9,
+        "price": 604
+    },
+    {
+        "id": "1329ccb9-bb92-476d-9f42-0d5b1d1b36c2",
+        "date": "2018-05-12",
+        "yield": 932,
+        "spread": 118,
+        "price": 520
+    },
+    {
+        "id": "728bf389-9f93-4ada-a0f9-ce8a4a71bea8",
+        "date": "2018-09-18",
+        "yield": 758,
+        "spread": 427,
+        "price": 335
+    },
+    {
+        "id": "f5b14254-baa7-4746-8044-293864114c63",
+        "date": "2018-11-18",
+        "yield": 131,
+        "spread": 157,
+        "price": 660
+    },
+    {
+        "id": "b4166c98-2e03-43da-be50-c0faecebb52d",
+        "date": "2018-12-12",
+        "yield": 118,
+        "spread": 435,
+        "price": 638
+    },
+    {
+        "id": "90ee0f0c-e60f-4180-88c5-9ee62ac5c87f",
+        "date": "2019-03-04",
+        "yield": 548,
+        "spread": 165,
+        "price": 363
+    },
+    {
+        "id": "ba2f55d9-e9d3-4500-bdb3-4684f90e2309",
+        "date": "2019-06-06",
+        "yield": 683,
+        "spread": 68,
+        "price": 293
+    },
+    {
+        "id": "9f3651c4-8113-4fa8-9d23-84088c2eea99",
+        "date": "2018-11-09",
+        "yield": 479,
+        "spread": 166,
+        "price": 170
+    },
+    {
+        "id": "a4da8834-b0e1-4bf7-91b2-200c2fc446f0",
+        "date": "2018-06-16",
+        "yield": 568,
+        "spread": 108,
+        "price": 367
+    },
+    {
+        "id": "39482171-16c5-4034-ae49-7a78ca457e0a",
+        "date": "2018-08-30",
+        "yield": 714,
+        "spread": 110,
+        "price": 665
+    },
+    {
+        "id": "18c16c40-38aa-4965-9193-ecb905dfa410",
+        "date": "2018-09-02",
+        "yield": 583,
+        "spread": 196,
+        "price": 249
+    },
+    {
+        "id": "812a023c-9186-4d31-b345-4f7a3cceb077",
+        "date": "2018-03-01",
+        "yield": 607,
+        "spread": 182,
+        "price": 692
+    },
+    {
+        "id": "b49a5ffb-115f-487d-ad0e-03b549eb0c07",
+        "date": "2019-11-06",
+        "yield": 30,
+        "spread": 224,
+        "price": 615
+    },
+    {
+        "id": "c416353e-fc14-4016-bc1d-7e6f9b241964",
+        "date": "2018-10-02",
+        "yield": 541,
+        "spread": 232,
+        "price": 472
+    },
+    {
+        "id": "3be100d4-a438-4add-9a81-049db9eab8f3",
+        "date": "2019-10-04",
+        "yield": 95,
+        "spread": 92,
+        "price": 532
+    },
+    {
+        "id": "15a97585-7f42-40bc-ba8a-fd3e1a2a753d",
+        "date": "2018-05-15",
+        "yield": 969,
+        "spread": 233,
+        "price": 270
+    },
+    {
+        "id": "b511df04-6ade-4e19-926e-c38d0b0175de",
+        "date": "2018-03-12",
+        "yield": 666,
+        "spread": 203,
+        "price": 501
+    },
+    {
+        "id": "01af7f27-73ae-4c78-b43b-5430a409ae85",
+        "date": "2018-06-18",
+        "yield": 301,
+        "spread": 42,
+        "price": 243
+    },
+    {
+        "id": "b71d53a3-fea1-4c32-8935-933e36e167ae",
+        "date": "2018-01-22",
+        "yield": 884,
+        "spread": 270,
+        "price": 649
+    },
+    {
+        "id": "3ae301c8-6628-456e-87bd-65d161c82777",
+        "date": "2018-01-31",
+        "yield": 681,
+        "spread": 161,
+        "price": 401
+    },
+    {
+        "id": "278e9603-eac1-47ce-ac77-de93daad161e",
+        "date": "2019-11-07",
+        "yield": 89,
+        "spread": 344,
+        "price": 301
+    },
+    {
+        "id": "b4c32f86-9598-47ec-853f-51d29357e04c",
+        "date": "2019-01-04",
+        "yield": 195,
+        "spread": 423,
+        "price": 573
+    },
+    {
+        "id": "910c60a3-3bfd-4930-a36d-c5ab3a9d6a45",
+        "date": "2019-12-13",
+        "yield": 442,
+        "spread": 359,
+        "price": 248
+    },
+    {
+        "id": "4dd15b8a-bafa-4068-b141-4547da181a56",
+        "date": "2018-10-30",
+        "yield": 347,
+        "spread": 328,
+        "price": 121
+    },
+    {
+        "id": "7044345d-e98a-4207-afd2-ccd697171235",
+        "date": "2019-08-16",
+        "yield": 168,
+        "spread": 317,
+        "price": 407
+    },
+    {
+        "id": "fadd45d9-e273-4eec-b72f-823a71cfbb08",
+        "date": "2019-12-30",
+        "yield": 102,
+        "spread": 465,
+        "price": 477
+    },
+    {
+        "id": "19c11e47-a3c4-40af-9889-8df1904e6002",
+        "date": "2019-09-11",
+        "yield": 961,
+        "spread": 7,
+        "price": 277
+    },
+    {
+        "id": "1b6b40d7-4b06-43bc-ad61-324a4ea7a30c",
+        "date": "2019-08-02",
+        "yield": 807,
+        "spread": 374,
+        "price": 453
+    },
+    {
+        "id": "196cf2be-dbe1-42ef-83e2-61e82073044c",
+        "date": "2018-04-05",
+        "yield": 525,
+        "spread": 408,
+        "price": 384
+    },
+    {
+        "id": "c03dbba8-8fd0-43a8-99c6-6b3ead2a7424",
+        "date": "2018-08-06",
+        "yield": 386,
+        "spread": 487,
+        "price": 328
+    },
+    {
+        "id": "6e240e93-a987-459b-b81a-79cc4b34b8cb",
+        "date": "2019-03-13",
+        "yield": 972,
+        "spread": 290,
+        "price": 298
+    },
+    {
+        "id": "0cd6f954-f6d8-4d5a-871b-92b0dc6be309",
+        "date": "2018-02-04",
+        "yield": 474,
+        "spread": 83,
+        "price": 216
+    },
+    {
+        "id": "14f7ac6f-59a1-4844-981b-6476f9d8af7b",
+        "date": "2019-06-04",
+        "yield": 55,
+        "spread": 46,
+        "price": 418
+    },
+    {
+        "id": "528dec36-de75-47eb-9d26-5a0611e68dc2",
+        "date": "2019-05-24",
+        "yield": 112,
+        "spread": 464,
+        "price": 627
+    },
+    {
+        "id": "714aa5d8-556e-4714-9b0d-68e2e4efadd1",
+        "date": "2018-11-17",
+        "yield": 27,
+        "spread": 273,
+        "price": 272
+    },
+    {
+        "id": "a61bdd46-18ce-4700-96d5-f27e77edbef9",
+        "date": "2019-03-30",
+        "yield": 935,
+        "spread": 453,
+        "price": 217
+    },
+    {
+        "id": "28988de9-0d3c-48bc-9250-8ffae7ff8689",
+        "date": "2019-06-24",
+        "yield": 665,
+        "spread": 55,
+        "price": 645
+    },
+    {
+        "id": "0e4a71e5-7166-421c-b52a-ba32cff6308c",
+        "date": "2018-05-07",
+        "yield": 934,
+        "spread": 412,
+        "price": 633
+    },
+    {
+        "id": "6e8254cf-6732-4255-b593-2951c5e46c1b",
+        "date": "2018-01-23",
+        "yield": 330,
+        "spread": 139,
+        "price": 667
+    },
+    {
+        "id": "848fda5f-a68e-4031-a184-0b29ab76d77f",
+        "date": "2019-11-09",
+        "yield": 464,
+        "spread": 329,
+        "price": 468
+    },
+    {
+        "id": "99b30c3e-153c-466f-89f8-24228852873a",
+        "date": "2019-12-05",
+        "yield": 776,
+        "spread": 457,
+        "price": 535
+    },
+    {
+        "id": "b95cdf0f-e572-47cd-a108-e980f6d14cc1",
+        "date": "2019-02-05",
+        "yield": 358,
+        "spread": 15,
+        "price": 203
+    },
+    {
+        "id": "8df6227f-d63c-4282-b877-4743c9ed48a3",
+        "date": "2019-10-02",
+        "yield": 628,
+        "spread": 355,
+        "price": 246
+    },
+    {
+        "id": "0b0822a9-b3aa-4cd5-b9a7-eb3cded81746",
+        "date": "2019-10-02",
+        "yield": 829,
+        "spread": 413,
+        "price": 579
+    },
+    {
+        "id": "6ae69535-1285-4653-ad80-1530e69fa208",
+        "date": "2018-12-12",
+        "yield": 911,
+        "spread": 108,
+        "price": 350
+    },
+    {
+        "id": "745e3de0-352a-4057-992b-ebce3999f901",
+        "date": "2019-10-05",
+        "yield": 516,
+        "spread": 254,
+        "price": 547
+    },
+    {
+        "id": "ef946a92-2479-4260-a839-7473978391e8",
+        "date": "2019-07-19",
+        "yield": 312,
+        "spread": 260,
+        "price": 595
+    },
+    {
+        "id": "decbc995-d5d3-46f2-bad9-9699ebcc0744",
+        "date": "2018-11-05",
+        "yield": 403,
+        "spread": 58,
+        "price": 325
+    },
+    {
+        "id": "2d056920-8428-4020-b855-112afe69596d",
+        "date": "2019-05-20",
+        "yield": 880,
+        "spread": 484,
+        "price": 460
+    },
+    {
+        "id": "b4e7c8cf-66b2-48dc-967e-8c79ff0719c7",
+        "date": "2019-11-17",
+        "yield": 202,
+        "spread": 266,
+        "price": 196
+    },
+    {
+        "id": "478ea0a0-61d6-45e3-88d0-9e8bdb08416b",
+        "date": "2018-10-19",
+        "yield": 28,
+        "spread": 231,
+        "price": 229
+    },
+    {
+        "id": "c50d198f-08d0-4837-ba0f-f4cf3c8b79e3",
+        "date": "2019-02-05",
+        "yield": 95,
+        "spread": 370,
+        "price": 304
+    },
+    {
+        "id": "46904484-cd52-430a-aae7-e2199bcc64fd",
+        "date": "2018-12-13",
+        "yield": 136,
+        "spread": 66,
+        "price": 477
+    },
+    {
+        "id": "ec9d5a34-c427-4eb0-a4b9-d89c5e690600",
+        "date": "2018-03-07",
+        "yield": 727,
+        "spread": 19,
+        "price": 182
+    },
+    {
+        "id": "e33a8c66-576d-4ac2-9650-47e3c4027123",
+        "date": "2018-10-25",
+        "yield": 933,
+        "spread": 478,
+        "price": 191
+    },
+    {
+        "id": "996ab695-c542-499f-8673-0e52a23a132c",
+        "date": "2018-07-20",
+        "yield": 429,
+        "spread": 472,
+        "price": 188
+    },
+    {
+        "id": "7f298e71-bbf1-4471-93f4-d33b87d34b82",
+        "date": "2018-06-26",
+        "yield": 187,
+        "spread": 401,
+        "price": 372
+    },
+    {
+        "id": "b11d0329-a1fd-4a0c-a05d-1ff764ad6df3",
+        "date": "2019-08-07",
+        "yield": 854,
+        "spread": 190,
+        "price": 488
+    },
+    {
+        "id": "209f683a-45aa-48a3-875c-a73c0e7670ea",
+        "date": "2019-03-22",
+        "yield": 235,
+        "spread": 19,
+        "price": 366
+    },
+    {
+        "id": "4beeb7d8-3503-4498-9810-cb008b45db9e",
+        "date": "2018-09-28",
+        "yield": 12,
+        "spread": 254,
+        "price": 576
+    },
+    {
+        "id": "40d0f813-8f89-40d1-9476-1a8fd338a6e0",
+        "date": "2018-06-26",
+        "yield": 759,
+        "spread": 185,
+        "price": 139
+    },
+    {
+        "id": "b05b85dc-d0c0-45f3-be3d-44e7263e0df7",
+        "date": "2018-06-26",
+        "yield": 917,
+        "spread": 160,
+        "price": 570
+    },
+    {
+        "id": "acb11f76-5cd6-4170-9958-e50857c16b09",
+        "date": "2019-04-25",
+        "yield": 650,
+        "spread": 341,
+        "price": 418
+    },
+    {
+        "id": "a1bb440d-f288-4bd2-911b-58c4e3a55407",
+        "date": "2018-12-18",
+        "yield": 457,
+        "spread": 7,
+        "price": 696
+    },
+    {
+        "id": "a3b2ab1a-87cf-41f3-9e43-7173a588cff4",
+        "date": "2018-05-10",
+        "yield": 964,
+        "spread": 255,
+        "price": 550
+    },
+    {
+        "id": "d73b49f2-0720-459e-a8b7-88d27c1914f7",
+        "date": "2019-03-18",
+        "yield": 34,
+        "spread": 435,
+        "price": 638
+    },
+    {
+        "id": "9ba3e5c6-aada-4d5c-af76-54e369e15249",
+        "date": "2018-05-28",
+        "yield": 121,
+        "spread": 95,
+        "price": 519
+    },
+    {
+        "id": "4e9cd979-0166-4fc1-b132-cdb2e20d2c42",
+        "date": "2019-09-09",
+        "yield": 431,
+        "spread": 227,
+        "price": 215
+    },
+    {
+        "id": "fef7d363-7901-4a6a-bfda-f0cd9176da84",
+        "date": "2019-02-12",
+        "yield": 643,
+        "spread": 227,
+        "price": 434
+    },
+    {
+        "id": "b76cd50d-80f5-4e34-8a90-1c729928fac7",
+        "date": "2019-09-11",
+        "yield": 312,
+        "spread": 272,
+        "price": 335
+    },
+    {
+        "id": "688769b9-9757-4a25-8988-ad583c123331",
+        "date": "2019-12-17",
+        "yield": 434,
+        "spread": 394,
+        "price": 398
+    },
+    {
+        "id": "12b0deb9-cb41-4468-9364-e31bb38f1b8e",
+        "date": "2018-04-29",
+        "yield": 532,
+        "spread": 67,
+        "price": 496
+    },
+    {
+        "id": "c395576a-6513-47d0-850a-a3a73fac2451",
+        "date": "2019-04-03",
+        "yield": 250,
+        "spread": 498,
+        "price": 441
+    },
+    {
+        "id": "fc494f58-1061-434d-bc99-6aa34405c633",
+        "date": "2019-02-15",
+        "yield": 75,
+        "spread": 157,
+        "price": 136
+    },
+    {
+        "id": "fdfa8013-3af6-4b2b-9068-d5b3b814a256",
+        "date": "2019-01-21",
+        "yield": 516,
+        "spread": 462,
+        "price": 556
+    },
+    {
+        "id": "da4f30b7-5ecf-4e60-ae35-6fc7c87140e6",
+        "date": "2019-12-12",
+        "yield": 916,
+        "spread": 197,
+        "price": 266
+    },
+    {
+        "id": "7ce6ed87-bab9-4578-9c38-281e659d45a4",
+        "date": "2018-07-30",
+        "yield": 613,
+        "spread": 365,
+        "price": 108
+    },
+    {
+        "id": "322f04e0-6952-43ee-bb04-ec536e3d9ef3",
+        "date": "2019-12-06",
+        "yield": 505,
+        "spread": 294,
+        "price": 547
+    },
+    {
+        "id": "c86818b9-4923-403c-9ee3-47884920b9e3",
+        "date": "2019-12-15",
+        "yield": 126,
+        "spread": 53,
+        "price": 633
+    },
+    {
+        "id": "20246d62-10f5-4340-a600-f6c288ea08db",
+        "date": "2019-11-11",
+        "yield": 46,
+        "spread": 368,
+        "price": 655
+    },
+    {
+        "id": "c1898301-47eb-449b-bfb0-e5bf56825d3c",
+        "date": "2018-01-07",
+        "yield": 204,
+        "spread": 1,
+        "price": 276
+    },
+    {
+        "id": "af7974e8-3a53-459f-8b52-2642537d9e3a",
+        "date": "2019-02-27",
+        "yield": 289,
+        "spread": 475,
+        "price": 523
+    },
+    {
+        "id": "ad2a1fc2-0596-4618-b51b-22eeab5c8f94",
+        "date": "2019-01-23",
+        "yield": 285,
+        "spread": 216,
+        "price": 313
+    },
+    {
+        "id": "050de384-47d9-48ad-a244-07ce940141e1",
+        "date": "2019-02-17",
+        "yield": 287,
+        "spread": 224,
+        "price": 385
+    },
+    {
+        "id": "c80b6c90-ab35-4b14-b495-4a7e444c88c1",
+        "date": "2018-11-28",
+        "yield": 257,
+        "spread": 355,
+        "price": 696
+    },
+    {
+        "id": "d478dece-ff1d-44a6-856e-776d58a1cfe0",
+        "date": "2019-08-15",
+        "yield": 264,
+        "spread": 41,
+        "price": 301
+    },
+    {
+        "id": "3e2656ae-d011-4894-bc4d-910367224a40",
+        "date": "2019-12-12",
+        "yield": 403,
+        "spread": 471,
+        "price": 149
+    },
+    {
+        "id": "2ffe9148-384f-4d96-8c47-a55b22d0a2c9",
+        "date": "2019-08-20",
+        "yield": 470,
+        "spread": 127,
+        "price": 196
+    },
+    {
+        "id": "ccf77e90-afce-4e90-b6f0-ebe7422e8f1e",
+        "date": "2019-06-03",
+        "yield": 307,
+        "spread": 306,
+        "price": 278
+    },
+    {
+        "id": "83da22a0-3518-4ff3-88cb-6b8374acbe5a",
+        "date": "2019-10-11",
+        "yield": 91,
+        "spread": 275,
+        "price": 244
+    },
+    {
+        "id": "6f1486b9-05af-492c-bf8a-f9d4a1d57c42",
+        "date": "2018-01-17",
+        "yield": 323,
+        "spread": 20,
+        "price": 665
+    },
+    {
+        "id": "b0244771-63ea-49c8-8058-859337959bb2",
+        "date": "2018-07-04",
+        "yield": 24,
+        "spread": 13,
+        "price": 109
+    },
+    {
+        "id": "e7c5df7c-e8bd-4a17-9049-3491b31af299",
+        "date": "2018-10-24",
+        "yield": 923,
+        "spread": 32,
+        "price": 408
+    },
+    {
+        "id": "22386c6d-98dd-43d2-8727-7c23beac2feb",
+        "date": "2018-04-16",
+        "yield": 168,
+        "spread": 459,
+        "price": 163
+    },
+    {
+        "id": "07082f2a-96f1-4bbf-80d3-1a3738613938",
+        "date": "2018-06-16",
+        "yield": 75,
+        "spread": 112,
+        "price": 601
+    },
+    {
+        "id": "a7c07cd8-be69-4f7d-ad48-4155ab9db121",
+        "date": "2019-09-11",
+        "yield": 669,
+        "spread": 368,
+        "price": 555
+    },
+    {
+        "id": "69829dae-6637-4470-bb5d-a3df6802153d",
+        "date": "2019-06-21",
+        "yield": 324,
+        "spread": 321,
+        "price": 149
+    },
+    {
+        "id": "04a40e22-32a1-44f9-9281-c6e3192ce6f4",
+        "date": "2019-12-11",
+        "yield": 127,
+        "spread": 280,
+        "price": 622
+    },
+    {
+        "id": "8e940c4a-9200-4ada-845c-ced4100e6516",
+        "date": "2018-08-08",
+        "yield": 290,
+        "spread": 36,
+        "price": 457
+    },
+    {
+        "id": "8ebe2028-2ed9-451e-ba8f-07785483dcef",
+        "date": "2018-05-18",
+        "yield": 589,
+        "spread": 334,
+        "price": 538
+    },
+    {
+        "id": "73563e6d-03d8-408d-b6ee-0155050b95ca",
+        "date": "2019-03-10",
+        "yield": 729,
+        "spread": 124,
+        "price": 167
+    },
+    {
+        "id": "481a5882-ca09-4181-904b-30fdfad631aa",
+        "date": "2019-12-27",
+        "yield": 391,
+        "spread": 374,
+        "price": 656
+    },
+    {
+        "id": "5867b069-c4ba-45d1-8b18-cfcc1bccb3f4",
+        "date": "2019-03-22",
+        "yield": 592,
+        "spread": 425,
+        "price": 286
+    },
+    {
+        "id": "bce76358-db84-418c-b87c-81d5e96a7f43",
+        "date": "2019-02-20",
+        "yield": 878,
+        "spread": 405,
+        "price": 452
+    },
+    {
+        "id": "89be9727-ef3a-46b8-bf67-3c68fa070ecf",
+        "date": "2019-04-27",
+        "yield": 903,
+        "spread": 110,
+        "price": 533
+    },
+    {
+        "id": "e237f96c-2bfd-45ca-a174-5ad4d199fcde",
+        "date": "2018-03-29",
+        "yield": 903,
+        "spread": 66,
+        "price": 304
+    },
+    {
+        "id": "0f71c395-8dce-473a-a536-db39942d2c1f",
+        "date": "2018-11-30",
+        "yield": 523,
+        "spread": 75,
+        "price": 222
+    },
+    {
+        "id": "5a875008-856d-42fb-ab27-1d5f2fd8444e",
+        "date": "2018-02-20",
+        "yield": 741,
+        "spread": 56,
+        "price": 561
+    },
+    {
+        "id": "d879a1b5-47de-4f1c-8231-62885aeb1b7b",
+        "date": "2018-03-08",
+        "yield": 335,
+        "spread": 219,
+        "price": 261
+    },
+    {
+        "id": "9391493b-55b2-4a4e-95cf-4b91cac85694",
+        "date": "2018-06-27",
+        "yield": 655,
+        "spread": 451,
+        "price": 247
+    },
+    {
+        "id": "4b6f9032-ae13-41d0-9497-e4f746023da2",
+        "date": "2018-11-07",
+        "yield": 566,
+        "spread": 411,
+        "price": 448
+    },
+    {
+        "id": "c5dfbf98-412f-456e-bf64-6e0bac52724c",
+        "date": "2019-04-26",
+        "yield": 150,
+        "spread": 57,
+        "price": 193
+    },
+    {
+        "id": "9cb5d13e-fb6e-47f1-aaca-1a26c0addfa5",
+        "date": "2019-10-15",
+        "yield": 529,
+        "spread": 330,
+        "price": 690
+    },
+    {
+        "id": "43553c94-fa7b-463d-97dc-24c1de038e1c",
+        "date": "2019-05-24",
+        "yield": 435,
+        "spread": 176,
+        "price": 526
+    },
+    {
+        "id": "4138586f-ae10-4dfc-8e85-de81f7a9a20c",
+        "date": "2018-08-12",
+        "yield": 492,
+        "spread": 375,
+        "price": 365
+    },
+    {
+        "id": "ce06d89d-3e3e-4c19-a5ba-a0765d73d76d",
+        "date": "2018-03-12",
+        "yield": 286,
+        "spread": 210,
+        "price": 177
+    },
+    {
+        "id": "7abb879d-555d-40ca-be86-18ca2a3f2725",
+        "date": "2019-04-09",
+        "yield": 27,
+        "spread": 433,
+        "price": 612
+    },
+    {
+        "id": "c457901b-73aa-4192-8142-fd282b10f7a3",
+        "date": "2019-04-30",
+        "yield": 119,
+        "spread": 216,
+        "price": 376
+    },
+    {
+        "id": "38543b59-efa4-4169-96da-91e29d580cc7",
+        "date": "2018-02-08",
+        "yield": 210,
+        "spread": 442,
+        "price": 633
+    },
+    {
+        "id": "e964d3dd-c1ef-4c55-ae8a-1a67a58b03f7",
+        "date": "2018-07-12",
+        "yield": 100,
+        "spread": 488,
+        "price": 504
+    },
+    {
+        "id": "cc272876-7c60-442c-89d0-7ba08e4c12e0",
+        "date": "2018-03-26",
+        "yield": 680,
+        "spread": 387,
+        "price": 375
+    },
+    {
+        "id": "a18dd0a5-18ca-4fa8-b2b7-95c3f17f13f4",
+        "date": "2018-08-05",
+        "yield": 260,
+        "spread": 121,
+        "price": 427
+    },
+    {
+        "id": "79e0d5f6-97c1-4b50-83ff-060b9e0bca69",
+        "date": "2018-06-04",
+        "yield": 440,
+        "spread": 8,
+        "price": 439
+    },
+    {
+        "id": "27859b21-a4c5-401b-80ef-a84ad24a69e7",
+        "date": "2018-05-06",
+        "yield": 900,
+        "spread": 39,
+        "price": 346
+    },
+    {
+        "id": "ab582cd4-8b6d-4d7b-9aed-6ddbb4e2fe0c",
+        "date": "2019-01-09",
+        "yield": 398,
+        "spread": 344,
+        "price": 287
+    },
+    {
+        "id": "584b7536-f380-4393-bee9-481c967e044c",
+        "date": "2019-02-09",
+        "yield": 380,
+        "spread": 162,
+        "price": 620
+    },
+    {
+        "id": "25276dd2-9c3e-43c7-84a9-65c0655c4977",
+        "date": "2019-12-21",
+        "yield": 768,
+        "spread": 258,
+        "price": 129
+    },
+    {
+        "id": "d57ce210-2d32-4288-b379-966baf61be79",
+        "date": "2019-03-09",
+        "yield": 955,
+        "spread": 87,
+        "price": 416
+    },
+    {
+        "id": "78241a5b-a9f4-4638-a938-d2a7514db403",
+        "date": "2019-09-27",
+        "yield": 527,
+        "spread": 334,
+        "price": 570
+    },
+    {
+        "id": "43b9ad99-e14b-49c3-90e5-ffc0b2f81f86",
+        "date": "2018-02-15",
+        "yield": 74,
+        "spread": 277,
+        "price": 139
+    },
+    {
+        "id": "6c9a8293-2193-44c3-94f6-44ec1bc0670d",
+        "date": "2019-12-03",
+        "yield": 529,
+        "spread": 42,
+        "price": 698
+    },
+    {
+        "id": "c52b4606-88df-4796-9a04-bee91cd2cd46",
+        "date": "2018-08-09",
+        "yield": 989,
+        "spread": 324,
+        "price": 242
+    },
+    {
+        "id": "5fe387c1-919f-4bcf-9f6e-33f3d4886500",
+        "date": "2019-04-26",
+        "yield": 840,
+        "spread": 301,
+        "price": 310
+    },
+    {
+        "id": "4b77ab0f-9e14-43eb-b017-df8b0b537780",
+        "date": "2018-06-29",
+        "yield": 937,
+        "spread": 306,
+        "price": 667
+    },
+    {
+        "id": "31034621-09a5-4ad8-8e4b-0d4eece949d1",
+        "date": "2019-06-07",
+        "yield": 50,
+        "spread": 314,
+        "price": 634
+    },
+    {
+        "id": "1cda9624-4727-45a0-9009-780635a8e2ca",
+        "date": "2019-06-23",
+        "yield": 691,
+        "spread": 96,
+        "price": 159
+    },
+    {
+        "id": "c227c55c-d7f2-468b-976d-e5759b361742",
+        "date": "2018-05-17",
+        "yield": 893,
+        "spread": 400,
+        "price": 611
+    },
+    {
+        "id": "cfdfbd68-051d-4de3-9bc8-2c194eeb1445",
+        "date": "2018-04-19",
+        "yield": 700,
+        "spread": 468,
+        "price": 379
+    },
+    {
+        "id": "7c53b644-ef68-4d40-ad8b-3559503687fc",
+        "date": "2019-04-07",
+        "yield": 46,
+        "spread": 141,
+        "price": 700
+    },
+    {
+        "id": "8ff06ab5-d4c2-4f3f-aa25-a0179d0884fa",
+        "date": "2019-01-20",
+        "yield": 53,
+        "spread": 107,
+        "price": 343
+    },
+    {
+        "id": "d49834f2-97a7-473c-81e3-e95afc0ad01a",
+        "date": "2019-09-15",
+        "yield": 659,
+        "spread": 233,
+        "price": 449
+    },
+    {
+        "id": "732ab8c7-3333-46b5-b321-e66deceeff7c",
+        "date": "2018-04-18",
+        "yield": 96,
+        "spread": 10,
+        "price": 670
+    },
+    {
+        "id": "4f3338ff-48fa-44fa-b94f-4c1efef729c8",
+        "date": "2018-09-27",
+        "yield": 476,
+        "spread": 391,
+        "price": 679
+    },
+    {
+        "id": "c44b3f2c-02fb-452a-ae8e-391952b15adc",
+        "date": "2019-12-30",
+        "yield": 509,
+        "spread": 487,
+        "price": 515
+    },
+    {
+        "id": "fe65333d-79b9-42d1-a58d-966b7e34d9ce",
+        "date": "2018-05-05",
+        "yield": 127,
+        "spread": 264,
+        "price": 372
+    },
+    {
+        "id": "c2bed65d-9a08-49d1-91bf-284b2c7334d2",
+        "date": "2019-08-11",
+        "yield": 883,
+        "spread": 98,
+        "price": 556
+    },
+    {
+        "id": "926bafa8-0ff7-4844-b72c-8419887f16ba",
+        "date": "2018-11-21",
+        "yield": 476,
+        "spread": 398,
+        "price": 430
+    },
+    {
+        "id": "dcf09ca3-5467-4e38-a53d-320a3a3a953f",
+        "date": "2019-04-08",
+        "yield": 660,
+        "spread": 398,
+        "price": 515
+    },
+    {
+        "id": "772677fe-e650-43fc-8930-e8bbf0ac667d",
+        "date": "2018-03-31",
+        "yield": 817,
+        "spread": 189,
+        "price": 247
+    },
+    {
+        "id": "bd493e04-e000-4c94-86bb-81e9b074bfe7",
+        "date": "2018-02-08",
+        "yield": 694,
+        "spread": 228,
+        "price": 293
+    },
+    {
+        "id": "2e98ad94-10df-4034-b92f-ef996e088054",
+        "date": "2019-09-17",
+        "yield": 332,
+        "spread": 420,
+        "price": 177
+    },
+    {
+        "id": "3acd9d24-bad7-45c0-b734-cfe9284a1d31",
+        "date": "2018-09-15",
+        "yield": 972,
+        "spread": 157,
+        "price": 462
+    },
+    {
+        "id": "6945cad6-e7a3-4ecb-afe6-a1bec614e895",
+        "date": "2018-08-14",
+        "yield": 708,
+        "spread": 145,
+        "price": 221
+    },
+    {
+        "id": "ee582c95-14d3-4dbd-ad8d-fba50825bf8e",
+        "date": "2018-09-21",
+        "yield": 448,
+        "spread": 53,
+        "price": 365
+    },
+    {
+        "id": "e0473830-8f86-4e67-ae0b-4d9d4b9715d8",
+        "date": "2019-07-29",
+        "yield": 666,
+        "spread": 173,
+        "price": 109
+    },
+    {
+        "id": "ec2289f5-70bb-469e-beb9-5d8e6e9d234f",
+        "date": "2018-01-24",
+        "yield": 444,
+        "spread": 233,
+        "price": 591
+    },
+    {
+        "id": "6281bf04-523f-4c98-96aa-9f90993a3ed2",
+        "date": "2018-09-18",
+        "yield": 158,
+        "spread": 285,
+        "price": 324
+    },
+    {
+        "id": "ed1e8e88-4275-4b02-8055-233b20661204",
+        "date": "2019-02-02",
+        "yield": 703,
+        "spread": 201,
+        "price": 216
+    },
+    {
+        "id": "8e090a97-7351-44ff-9cfd-b5862316ae99",
+        "date": "2018-05-16",
+        "yield": 679,
+        "spread": 204,
+        "price": 632
+    },
+    {
+        "id": "e636ef6f-c61d-4207-bbcf-1a2d1057e53e",
+        "date": "2018-07-16",
+        "yield": 838,
+        "spread": 307,
+        "price": 687
+    },
+    {
+        "id": "3872c6a3-ee38-437e-8e86-fffc096f1694",
+        "date": "2018-02-22",
+        "yield": 344,
+        "spread": 390,
+        "price": 455
+    },
+    {
+        "id": "9d2b8b07-45da-4b20-98d6-0eeb3eb65f15",
+        "date": "2018-04-23",
+        "yield": 745,
+        "spread": 254,
+        "price": 235
+    },
+    {
+        "id": "f7922b18-367d-4f53-811c-df7042b75ce0",
+        "date": "2018-02-23",
+        "yield": 373,
+        "spread": 462,
+        "price": 634
+    },
+    {
+        "id": "2c2ddfe6-4af3-47a6-90e5-52de6032ebbe",
+        "date": "2019-05-23",
+        "yield": 789,
+        "spread": 486,
+        "price": 577
+    },
+    {
+        "id": "5e10f291-95b6-4f02-b88e-3e2916c8f2a9",
+        "date": "2018-01-21",
+        "yield": 540,
+        "spread": 50,
+        "price": 131
+    },
+    {
+        "id": "9038db58-6120-4ae1-a530-89c399285d01",
+        "date": "2018-02-02",
+        "yield": 555,
+        "spread": 357,
+        "price": 639
+    },
+    {
+        "id": "291805b2-635a-4fa4-80be-7d94f9efa2f0",
+        "date": "2019-05-11",
+        "yield": 583,
+        "spread": 223,
+        "price": 147
+    },
+    {
+        "id": "1c5bded6-5684-474f-b485-a8f1ccdbf158",
+        "date": "2019-08-17",
+        "yield": 504,
+        "spread": 36,
+        "price": 296
+    },
+    {
+        "id": "53256b03-c2f8-4079-963b-6cb2a5e01eff",
+        "date": "2018-06-26",
+        "yield": 371,
+        "spread": 386,
+        "price": 631
+    },
+    {
+        "id": "9bcba85c-97f5-46ee-82d9-3a74c313196c",
+        "date": "2018-10-23",
+        "yield": 879,
+        "spread": 475,
+        "price": 397
+    },
+    {
+        "id": "30218624-4836-4d8a-8356-5ddf850f62b5",
+        "date": "2019-06-10",
+        "yield": 356,
+        "spread": 161,
+        "price": 425
+    },
+    {
+        "id": "10a69d11-6baf-4d47-b6ec-d97b321355be",
+        "date": "2019-02-20",
+        "yield": 449,
+        "spread": 88,
+        "price": 599
+    },
+    {
+        "id": "f4a63db9-bfaa-4129-9b60-33b30f207ece",
+        "date": "2018-02-05",
+        "yield": 550,
+        "spread": 260,
+        "price": 159
+    },
+    {
+        "id": "baabd8a4-f16a-439a-b4f4-00d316915b12",
+        "date": "2018-01-19",
+        "yield": 216,
+        "spread": 464,
+        "price": 358
+    },
+    {
+        "id": "c26c3f11-0112-48e3-90b6-e1719acb0de1",
+        "date": "2018-03-20",
+        "yield": 739,
+        "spread": 277,
+        "price": 519
+    },
+    {
+        "id": "2f7e9d3b-0b6e-473c-ab7c-815d52a396cc",
+        "date": "2018-11-09",
+        "yield": 153,
+        "spread": 471,
+        "price": 688
+    },
+    {
+        "id": "a174aa85-a44c-49c1-8a4d-9cf8ffc11b2c",
+        "date": "2019-10-15",
+        "yield": 600,
+        "spread": 234,
+        "price": 249
+    },
+    {
+        "id": "4ed4195f-7719-418b-959a-f22e192ce000",
+        "date": "2019-04-17",
+        "yield": 538,
+        "spread": 9,
+        "price": 677
+    },
+    {
+        "id": "7e74005a-305d-4bb2-b8a4-7227ff037f15",
+        "date": "2019-10-14",
+        "yield": 617,
+        "spread": 98,
+        "price": 160
+    },
+    {
+        "id": "e6224f7f-1b96-4fac-b7d0-01ebb5dddef8",
+        "date": "2018-11-19",
+        "yield": 951,
+        "spread": 221,
+        "price": 478
+    },
+    {
+        "id": "29aaef07-2394-4e8d-83fb-266c21285bb4",
+        "date": "2018-10-29",
+        "yield": 677,
+        "spread": 381,
+        "price": 425
+    },
+    {
+        "id": "30d72733-dd3f-4e36-9204-e39f2bf4c485",
+        "date": "2019-06-11",
+        "yield": 947,
+        "spread": 236,
+        "price": 439
+    },
+    {
+        "id": "92a0d0ed-e86c-4663-a0e8-8d064926473d",
+        "date": "2019-07-17",
+        "yield": 655,
+        "spread": 110,
+        "price": 563
+    },
+    {
+        "id": "93d8b55d-1d49-44c1-a1a3-e384f027dce5",
+        "date": "2018-06-14",
+        "yield": 275,
+        "spread": 197,
+        "price": 614
+    },
+    {
+        "id": "9a091c2d-ceb6-416c-a213-3ca96b66f66a",
+        "date": "2018-11-07",
+        "yield": 480,
+        "spread": 2,
+        "price": 186
+    },
+    {
+        "id": "6b4eecf5-78fb-4cf7-a8c0-f85f43f050a6",
+        "date": "2018-11-13",
+        "yield": 560,
+        "spread": 50,
+        "price": 386
+    },
+    {
+        "id": "a91ddb10-8646-4c01-91ba-96295d317844",
+        "date": "2018-12-24",
+        "yield": 98,
+        "spread": 127,
+        "price": 184
+    },
+    {
+        "id": "f6563c01-7f18-449e-a535-8395d461f35a",
+        "date": "2019-05-25",
+        "yield": 40,
+        "spread": 181,
+        "price": 666
+    },
+    {
+        "id": "42107a54-8eb5-41bd-99ec-2e988386a6aa",
+        "date": "2019-11-13",
+        "yield": 256,
+        "spread": 493,
+        "price": 340
+    },
+    {
+        "id": "3255f404-4330-428e-baa1-8b339b98c667",
+        "date": "2018-09-22",
+        "yield": 640,
+        "spread": 429,
+        "price": 344
+    },
+    {
+        "id": "d4feca31-3258-4e5d-acc3-7f9a096abd58",
+        "date": "2019-04-11",
+        "yield": 268,
+        "spread": 45,
+        "price": 526
+    },
+    {
+        "id": "d0aa5aed-3ded-48d9-8ff8-79a15d379bf4",
+        "date": "2019-01-07",
+        "yield": 289,
+        "spread": 340,
+        "price": 328
+    },
+    {
+        "id": "ca289f95-bb1e-4d05-8de1-c6e51b335e6f",
+        "date": "2018-09-20",
+        "yield": 398,
+        "spread": 300,
+        "price": 194
+    },
+    {
+        "id": "a8859f0c-5019-4d84-9439-4af1e7342ba1",
+        "date": "2018-10-04",
+        "yield": 65,
+        "spread": 2,
+        "price": 235
+    },
+    {
+        "id": "415fe5d2-5e33-4d52-8643-71ad0e4f5f3a",
+        "date": "2018-04-05",
+        "yield": 213,
+        "spread": 193,
+        "price": 406
+    },
+    {
+        "id": "c1181eb4-cd40-4eed-866d-be4dda39890d",
+        "date": "2018-02-28",
+        "yield": 302,
+        "spread": 225,
+        "price": 541
+    },
+    {
+        "id": "e5fe6afb-23ab-4d99-b7fa-aa4a95b631ea",
+        "date": "2019-05-10",
+        "yield": 651,
+        "spread": 346,
+        "price": 374
+    },
+    {
+        "id": "d4719d0c-1638-4e38-a814-307c83d174ff",
+        "date": "2019-05-22",
+        "yield": 322,
+        "spread": 209,
+        "price": 398
+    },
+    {
+        "id": "49f7ceb1-b9e5-4024-85f7-b20dbef10a4f",
+        "date": "2018-07-11",
+        "yield": 165,
+        "spread": 441,
+        "price": 107
+    },
+    {
+        "id": "1605e3c0-ca2d-4484-ad7c-fd8222aa5c12",
+        "date": "2018-06-21",
+        "yield": 500,
+        "spread": 474,
+        "price": 147
+    },
+    {
+        "id": "d9dea484-5035-483f-b09d-04ee0779afde",
+        "date": "2018-10-01",
+        "yield": 457,
+        "spread": 398,
+        "price": 107
+    },
+    {
+        "id": "848395c9-7434-4be9-89ef-092d0b8ed2a0",
+        "date": "2018-05-23",
+        "yield": 849,
+        "spread": 4,
+        "price": 506
+    },
+    {
+        "id": "ce32fa61-401b-4217-bd75-5280f1a7667a",
+        "date": "2018-10-30",
+        "yield": 334,
+        "spread": 434,
+        "price": 535
+    },
+    {
+        "id": "fa548b15-e00a-4ae9-97c9-e6efab1d4f35",
+        "date": "2019-01-09",
+        "yield": 67,
+        "spread": 497,
+        "price": 467
+    },
+    {
+        "id": "f31dd677-fe32-430e-b581-49e4534e2e35",
+        "date": "2018-07-16",
+        "yield": 341,
+        "spread": 325,
+        "price": 528
+    },
+    {
+        "id": "ada5271e-a833-469e-9be2-84838a138926",
+        "date": "2019-12-28",
+        "yield": 572,
+        "spread": 291,
+        "price": 235
+    },
+    {
+        "id": "2c7ec90d-1c72-4a79-abd7-231d9243c2c1",
+        "date": "2018-11-11",
+        "yield": 316,
+        "spread": 183,
+        "price": 153
+    },
+    {
+        "id": "634dfd2a-950b-4b86-b210-aa4e1af9a027",
+        "date": "2019-11-06",
+        "yield": 414,
+        "spread": 194,
+        "price": 478
+    },
+    {
+        "id": "dd095bc6-9414-4713-ac76-c663ca15a385",
+        "date": "2018-08-08",
+        "yield": 207,
+        "spread": 420,
+        "price": 491
+    },
+    {
+        "id": "e08459e2-1fa6-4433-a749-6a6213b420f9",
+        "date": "2019-02-01",
+        "yield": 282,
+        "spread": 142,
+        "price": 275
+    },
+    {
+        "id": "dc4cfa8c-f6ca-4d80-9107-784cdb799687",
+        "date": "2019-02-17",
+        "yield": 992,
+        "spread": 180,
+        "price": 455
+    },
+    {
+        "id": "d5ca149a-ce62-4124-856d-ce35836c4163",
+        "date": "2019-09-05",
+        "yield": 348,
+        "spread": 316,
+        "price": 602
+    },
+    {
+        "id": "8f1b9c82-fa7e-43af-9aec-96510dec05d2",
+        "date": "2018-03-05",
+        "yield": 579,
+        "spread": 279,
+        "price": 509
+    },
+    {
+        "id": "e86baae1-cd87-4adc-a081-9e0c0d0400b5",
+        "date": "2018-06-04",
+        "yield": 766,
+        "spread": 253,
+        "price": 458
+    },
+    {
+        "id": "3434f46f-1f32-4804-8b94-67901ff0c848",
+        "date": "2019-10-07",
+        "yield": 73,
+        "spread": 280,
+        "price": 257
+    },
+    {
+        "id": "e41f8f59-bd18-4352-a8fc-73ca559c0e31",
+        "date": "2019-01-24",
+        "yield": 866,
+        "spread": 20,
+        "price": 662
+    },
+    {
+        "id": "13438cd1-efc0-4c11-bf52-26aa768091da",
+        "date": "2018-11-03",
+        "yield": 277,
+        "spread": 461,
+        "price": 291
+    },
+    {
+        "id": "55773c51-2c91-428a-845a-dbb765277d5d",
+        "date": "2019-11-24",
+        "yield": 147,
+        "spread": 243,
+        "price": 105
+    },
+    {
+        "id": "95b5c46f-b4f3-49c2-bb8a-70e048cad82c",
+        "date": "2019-03-21",
+        "yield": 836,
+        "spread": 6,
+        "price": 238
+    },
+    {
+        "id": "f78f3259-42af-4b51-a3f0-49e7968e9cd7",
+        "date": "2019-03-30",
+        "yield": 547,
+        "spread": 356,
+        "price": 142
+    },
+    {
+        "id": "5b94f52b-953a-484e-90d7-0ba1e74ea543",
+        "date": "2019-01-11",
+        "yield": 131,
+        "spread": 154,
+        "price": 250
+    },
+    {
+        "id": "09a30cc2-a8dc-4073-ab1a-64fe28864464",
+        "date": "2019-10-07",
+        "yield": 1,
+        "spread": 486,
+        "price": 106
+    },
+    {
+        "id": "68b24335-8d44-442b-8f81-6b84be5113b8",
+        "date": "2018-06-19",
+        "yield": 741,
+        "spread": 161,
+        "price": 158
+    },
+    {
+        "id": "529af8f3-b916-442f-8267-b5342ecb9ecb",
+        "date": "2019-04-05",
+        "yield": 634,
+        "spread": 342,
+        "price": 627
+    },
+    {
+        "id": "60e937b7-7c87-4da9-91a9-8327d6053abf",
+        "date": "2018-06-22",
+        "yield": 703,
+        "spread": 201,
+        "price": 342
+    },
+    {
+        "id": "3ca90215-5da5-4df6-a35b-d304ec31e6bd",
+        "date": "2018-10-07",
+        "yield": 931,
+        "spread": 166,
+        "price": 439
+    },
+    {
+        "id": "779d0636-c0b2-4ebe-baea-4db414cadb00",
+        "date": "2018-12-07",
+        "yield": 703,
+        "spread": 234,
+        "price": 112
+    },
+    {
+        "id": "011f20a1-d44c-40f7-ba86-9db718c7b0ac",
+        "date": "2019-12-21",
+        "yield": 93,
+        "spread": 115,
+        "price": 517
+    },
+    {
+        "id": "e1d36498-ef75-48e4-a06c-af6699b71cc8",
+        "date": "2018-10-03",
+        "yield": 352,
+        "spread": 278,
+        "price": 439
+    },
+    {
+        "id": "3c3a6eaf-80a6-4546-a3a3-0e0369b5bbd0",
+        "date": "2018-02-09",
+        "yield": 808,
+        "spread": 346,
+        "price": 591
+    },
+    {
+        "id": "6b64f0f6-7d85-4762-8648-2cba0c4edee1",
+        "date": "2019-07-15",
+        "yield": 313,
+        "spread": 402,
+        "price": 237
+    },
+    {
+        "id": "925f039a-1c3f-48da-9926-c7ef81f637cd",
+        "date": "2018-03-01",
+        "yield": 655,
+        "spread": 204,
+        "price": 535
+    },
+    {
+        "id": "073705fd-3dd6-4f66-adbd-05a4b2387cda",
+        "date": "2019-11-26",
+        "yield": 633,
+        "spread": 222,
+        "price": 491
+    },
+    {
+        "id": "2e69d820-725a-4534-aefd-7a349be18d48",
+        "date": "2018-05-01",
+        "yield": 706,
+        "spread": 52,
+        "price": 216
+    },
+    {
+        "id": "6e27f837-32c5-414b-8fa6-459ea6b4a0d3",
+        "date": "2019-05-01",
+        "yield": 193,
+        "spread": 67,
+        "price": 554
+    },
+    {
+        "id": "783f7c86-c749-4dbe-8c5e-08ad2b6645a9",
+        "date": "2018-05-31",
+        "yield": 952,
+        "spread": 31,
+        "price": 647
+    },
+    {
+        "id": "028bc141-61fe-4217-9992-187ee8e2b7f3",
+        "date": "2019-07-10",
+        "yield": 642,
+        "spread": 225,
+        "price": 597
+    },
+    {
+        "id": "6f947751-d598-4aa4-9c54-64fee57c206f",
+        "date": "2019-07-31",
+        "yield": 536,
+        "spread": 444,
+        "price": 120
+    },
+    {
+        "id": "cad4f86f-483d-44db-9edb-2231f9bd9987",
+        "date": "2019-01-02",
+        "yield": 428,
+        "spread": 476,
+        "price": 586
+    },
+    {
+        "id": "d3003ad0-44ea-4c38-babf-45468b30f158",
+        "date": "2018-03-01",
+        "yield": 88,
+        "spread": 475,
+        "price": 523
+    },
+    {
+        "id": "b075b48f-634b-4f83-a60a-ac76e1e570a5",
+        "date": "2018-10-16",
+        "yield": 2,
+        "spread": 307,
+        "price": 536
+    },
+    {
+        "id": "e46371bb-1802-4f85-a77f-eda773c8332e",
+        "date": "2018-04-16",
+        "yield": 190,
+        "spread": 197,
+        "price": 357
+    },
+    {
+        "id": "ed5ef692-9893-444f-bf55-4a439fafaae3",
+        "date": "2018-05-25",
+        "yield": 360,
+        "spread": 270,
+        "price": 494
+    },
+    {
+        "id": "e9dd5ba5-bc50-43c0-aea8-1c2b0da1d8e0",
+        "date": "2018-01-16",
+        "yield": 33,
+        "spread": 257,
+        "price": 511
+    },
+    {
+        "id": "11da1e34-bd24-430f-853d-fdee02cd4274",
+        "date": "2019-11-02",
+        "yield": 565,
+        "spread": 225,
+        "price": 458
+    },
+    {
+        "id": "ba6bea39-e1be-44e5-9104-d9551b37776b",
+        "date": "2018-12-03",
+        "yield": 455,
+        "spread": 278,
+        "price": 233
+    },
+    {
+        "id": "05e44fe8-bb96-4e57-8476-663fd268ed72",
+        "date": "2019-09-08",
+        "yield": 878,
+        "spread": 110,
+        "price": 532
+    },
+    {
+        "id": "09338bbe-fb61-4210-8872-49749e600535",
+        "date": "2019-07-12",
+        "yield": 890,
+        "spread": 350,
+        "price": 422
+    },
+    {
+        "id": "0ea82869-4b7d-4a34-8a23-910d4f09ab06",
+        "date": "2018-11-19",
+        "yield": 814,
+        "spread": 52,
+        "price": 102
+    },
+    {
+        "id": "de2bc294-3482-4fca-89f0-8aa46651931c",
+        "date": "2018-09-28",
+        "yield": 256,
+        "spread": 406,
+        "price": 110
+    },
+    {
+        "id": "6e63a2db-72df-4169-9cea-40dd58fdc45a",
+        "date": "2018-06-11",
+        "yield": 557,
+        "spread": 406,
+        "price": 315
+    },
+    {
+        "id": "ba8d157c-da37-4b3b-b855-4c611b808c97",
+        "date": "2019-12-23",
+        "yield": 121,
+        "spread": 170,
+        "price": 279
+    },
+    {
+        "id": "58443f94-4676-481f-9613-07c365bbd209",
+        "date": "2019-03-22",
+        "yield": 409,
+        "spread": 179,
+        "price": 357
+    },
+    {
+        "id": "a5bee8d8-c207-4729-8d72-f2525c5445c5",
+        "date": "2018-04-18",
+        "yield": 814,
+        "spread": 274,
+        "price": 490
+    },
+    {
+        "id": "dff9c9bd-e354-4c35-b657-be1fcc03c90f",
+        "date": "2019-06-19",
+        "yield": 986,
+        "spread": 206,
+        "price": 405
+    },
+    {
+        "id": "e322ecc5-e827-47c1-a897-6dfcfc0416f4",
+        "date": "2019-04-02",
+        "yield": 398,
+        "spread": 146,
+        "price": 695
+    },
+    {
+        "id": "9488c9b0-6e7c-4419-97e7-b18f03901304",
+        "date": "2018-12-30",
+        "yield": 498,
+        "spread": 237,
+        "price": 671
+    },
+    {
+        "id": "7bd351a7-4147-44a1-950a-8f1146d3517b",
+        "date": "2018-06-14",
+        "yield": 124,
+        "spread": 183,
+        "price": 117
+    },
+    {
+        "id": "3282871b-476a-44d3-9501-50b70e7827bc",
+        "date": "2018-10-16",
+        "yield": 759,
+        "spread": 390,
+        "price": 202
+    },
+    {
+        "id": "aacc120f-521d-4058-ab88-a0a04ef943df",
+        "date": "2018-01-12",
+        "yield": 447,
+        "spread": 367,
+        "price": 402
+    },
+    {
+        "id": "a6e40cff-435a-4779-8a1e-671bc93ac9af",
+        "date": "2019-02-13",
+        "yield": 746,
+        "spread": 313,
+        "price": 639
+    },
+    {
+        "id": "9d869a44-a1b5-43a4-b4d1-165526f49e97",
+        "date": "2019-06-23",
+        "yield": 746,
+        "spread": 117,
+        "price": 451
+    },
+    {
+        "id": "7f13c1af-56e4-4781-873a-57b1b5c4ca5f",
+        "date": "2019-09-09",
+        "yield": 472,
+        "spread": 173,
+        "price": 521
+    },
+    {
+        "id": "682038cb-f105-4895-9a36-3020dfb0d17e",
+        "date": "2019-10-01",
+        "yield": 908,
+        "spread": 157,
+        "price": 485
+    },
+    {
+        "id": "612099e4-6936-4dc6-877d-2677e3f6570e",
+        "date": "2018-12-31",
+        "yield": 637,
+        "spread": 473,
+        "price": 552
+    },
+    {
+        "id": "fb96d798-d4db-407d-a8bd-719b99d6a37e",
+        "date": "2018-12-19",
+        "yield": 467,
+        "spread": 6,
+        "price": 338
+    },
+    {
+        "id": "82ded1dc-3109-4b0f-b1bc-0f66fa5674bb",
+        "date": "2018-02-28",
+        "yield": 995,
+        "spread": 437,
+        "price": 552
+    },
+    {
+        "id": "addfc053-1550-45b4-8244-16f67e199597",
+        "date": "2018-12-27",
+        "yield": 964,
+        "spread": 232,
+        "price": 425
+    },
+    {
+        "id": "c9660fa2-6407-4058-8309-217dd56a74bd",
+        "date": "2019-10-27",
+        "yield": 485,
+        "spread": 392,
+        "price": 531
+    },
+    {
+        "id": "350295e9-3861-47b3-ae6d-c5fb130b6caa",
+        "date": "2019-08-06",
+        "yield": 168,
+        "spread": 187,
+        "price": 694
+    },
+    {
+        "id": "81108a4b-bb36-4334-b6a8-d0e839608e00",
+        "date": "2019-05-02",
+        "yield": 370,
+        "spread": 221,
+        "price": 638
+    },
+    {
+        "id": "b9eff7b2-4e12-4458-8544-9447c062b9eb",
+        "date": "2018-09-08",
+        "yield": 423,
+        "spread": 165,
+        "price": 182
+    },
+    {
+        "id": "d76dc3ac-95be-4d49-a6f1-3426f6e3042b",
+        "date": "2019-07-10",
+        "yield": 944,
+        "spread": 445,
+        "price": 401
+    },
+    {
+        "id": "8eca9518-b2f5-4ee7-a809-f5d972c7cedd",
+        "date": "2018-03-25",
+        "yield": 112,
+        "spread": 139,
+        "price": 643
+    },
+    {
+        "id": "6ff043ca-3bd7-4d45-bdc2-4b29d8debd73",
+        "date": "2019-04-15",
+        "yield": 845,
+        "spread": 275,
+        "price": 131
+    },
+    {
+        "id": "7ac54e88-81a4-4139-8f4e-098b11f4320d",
+        "date": "2018-07-26",
+        "yield": 170,
+        "spread": 60,
+        "price": 359
+    },
+    {
+        "id": "77d1366b-0d83-4a8f-aece-992d042ed17d",
+        "date": "2018-06-14",
+        "yield": 881,
+        "spread": 427,
+        "price": 137
+    },
+    {
+        "id": "ea8a144c-53e9-4231-9b4b-fd0b932ad5d6",
+        "date": "2019-07-19",
+        "yield": 523,
+        "spread": 162,
+        "price": 321
+    },
+    {
+        "id": "a24a259a-cc0b-4347-bdc6-26a80b13e04a",
+        "date": "2019-04-01",
+        "yield": 987,
+        "spread": 57,
+        "price": 211
+    },
+    {
+        "id": "67f08b1d-30ff-4851-ae4b-92be1fd3484d",
+        "date": "2018-01-31",
+        "yield": 187,
+        "spread": 215,
+        "price": 367
+    },
+    {
+        "id": "03978d33-d5dd-40d5-8128-398839ca2100",
+        "date": "2018-12-23",
+        "yield": 870,
+        "spread": 345,
+        "price": 618
+    },
+    {
+        "id": "3b2ca253-6b9a-4700-9d97-a81eb00bed4c",
+        "date": "2019-09-30",
+        "yield": 993,
+        "spread": 94,
+        "price": 469
+    },
+    {
+        "id": "469745f5-e9ef-47d2-8626-7b90c220b745",
+        "date": "2018-04-03",
+        "yield": 12,
+        "spread": 384,
+        "price": 583
+    },
+    {
+        "id": "b2a00e97-aa4a-477d-825b-90e9f321f035",
+        "date": "2018-08-12",
+        "yield": 263,
+        "spread": 345,
+        "price": 500
+    },
+    {
+        "id": "f2892169-fd17-4662-ab08-b8a54980ada5",
+        "date": "2019-10-13",
+        "yield": 229,
+        "spread": 129,
+        "price": 110
+    },
+    {
+        "id": "a9104665-7611-4f25-8d9a-206ca530bed6",
+        "date": "2018-12-03",
+        "yield": 266,
+        "spread": 33,
+        "price": 607
+    },
+    {
+        "id": "d07e20cc-bb21-4d1f-85dc-bd7dbb200b76",
+        "date": "2019-05-21",
+        "yield": 602,
+        "spread": 400,
+        "price": 448
+    },
+    {
+        "id": "b3863311-3498-4e94-a602-dcd2aaa34fb0",
+        "date": "2019-08-09",
+        "yield": 977,
+        "spread": 365,
+        "price": 199
+    }
+]
